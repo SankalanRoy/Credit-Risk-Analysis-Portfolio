@@ -18,8 +18,8 @@ The lending division observed an uptick in 90+ day loan delinquencies over recen
 ## Key Business Insights
 
 * Debt-to-Income (DTI) Ratio as a Primary Indicator:** Borrowers with a DTI above 40% exhibited a **3.2x higher default rate** compared to those below 25%.
-* Credit Utilization Impact:** High revolving credit utilization (>70%) combined with short credit history (<3 years) accounted for 42% of total default losses.
-* Income Verification Gap:** Unverified income applicants defaulted at 18.5%, compared to 7.2% for verified applicants in similar credit score bands.
+* Credit Utilization Impact: High revolving credit utilization (>70%) combined with short credit history (<3 years) accounted for 42% of total default losses.
+* Income Verification Gap: Unverified income applicants defaulted at 18.5%, compared to 7.2% for verified applicants in similar credit score bands.
 
 ---
 
