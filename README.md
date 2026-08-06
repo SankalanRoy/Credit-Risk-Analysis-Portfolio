@@ -38,10 +38,3 @@ The lending division observed an uptick in 90+ day loan delinquencies over recen
 * **Dataset Size:** 50,000 historical loan records.
 * **Metrics Analyzed:** Default Rate (DR), Expected Loss (EL), Loss Given Default (LGD), Debt-to-Income (DTI), FICO Score distributions.
 * **Data Quality & Governance:** Cleaned missing values, checked for skewness, validated against business rule logic, and ensured full anonymization of PII (Personally Identifiable Information).
-
----
-
-## Project Deliverables
-* **[Executive Summary Deck (PDF)](#)** – High-level presentation for senior management.
-* **[Power BI / Tableau Interactive Dashboard](#)** – Dynamic dashboard for risk managers.
-* **[Data Dictionary (CSV)](#)** – Complete field mapping and business definitions.
