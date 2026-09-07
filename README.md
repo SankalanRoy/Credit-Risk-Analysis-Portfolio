@@ -46,31 +46,31 @@ Translate these findings into actionable insights that can support risk segmenta
 
 Following the analysis of the loan portfolio, several key insights have emerged regarding where default risk is concentrated and which characteristics appear most relevant to portfolio performance.
 
-1. Credit quality is the strongest observed indicator of default risk
+Credit quality is the strongest observed indicator of default risk
 
 The analysis shows that borrower credit quality is the clearest area of elevated risk. Customers with Credit Grade E and those with Poor Credit Scores (300–579) demonstrate default rates above the overall portfolio baseline of 32.94%.
 
 This indicates that existing credit quality should remain a key consideration when assessing borrower risk. From a business perspective, greater attention should be given to customers with weaker credit profiles, particularly when these characteristics appear alongside other risk indicators.
 
-2. Customer characteristics provide additional risk segmentation
+Customer characteristics provide additional risk segmentation
 
 Housing status and employment length also show differences in observed default behaviour. In particular, customers across the major housing categories — Mortgage, Own and Rent — contribute materially to the observed defaults, while customers with 0–9 years of employment demonstrate higher observed default rates.
 
 These characteristics should not be considered standalone reasons for restricting lending. Instead, they provide useful additional context that can be combined with stronger credit indicators to create more meaningful risk segments.
 
-3. Some loan characteristics provide limited evidence of elevated risk
+Some loan characteristics provide limited evidence of elevated risk
 
 The analysis does not show similarly elevated default rates across characteristics such as loan amount, loan purpose, age and DTI.
 
 While these variables show differences between segments, they do not demonstrate a consistent pattern of risk above the portfolio baseline. This suggests that the business should be cautious about using these characteristics independently when assessing credit risk.
 
-4. Interest rate requires further investigation rather than immediate action
+Interest rate requires further investigation rather than immediate action
 
 The analysis identified a high default rate within the highest interest-rate category. However, this segment contains too few observations to provide sufficient evidence for it to be considered a primary risk indicator.
 
 I would therefore recommend treating interest rate as an exploratory factor rather than making a lending decision based on this finding alone. Further analysis, particularly alongside Credit Grade and FICO Score, would help determine whether the relationship remains significant across larger segments.
 
-5. Repayment behaviour provides an opportunity for ongoing risk monitoring
+Repayment behaviour provides an opportunity for ongoing risk monitoring
 
 The repayment analysis provides an additional perspective beyond the characteristics available at loan origination. By comparing the repayment behaviour of loans that eventually defaulted with those that did not, we can identify whether increasing late-payment behaviour is associated with deterioration in loan performance.
 
@@ -82,7 +82,7 @@ The findings also indicate that not every variable should be treated equally. Ra
 
 The next stage of the analysis will therefore focus on cross-variable analysis to determine whether combinations such as Poor FICO + Credit Grade E, or weaker credit quality combined with housing or employment characteristics, produce materially higher default rates than the individual factors considered separately.
 
-These findings represent observed associations within the historical portfolio and should be used to support risk segmentation, lending decisions and portfolio monitoring, rather than interpreted as evidence that any individual characteristic directly causes default.
+**These findings represent observed associations within the historical portfolio and should be used to support risk segmentation, lending decisions and portfolio monitoring, rather than interpreted as evidence that any individual characteristic directly causes default.**
 ---
 
 ## Data & Methodology
