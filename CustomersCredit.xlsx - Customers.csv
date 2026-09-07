@@ -1,0 +1,1001 @@
+customer_id,first_name,last_name,age,employment_length_yrs,housing_status,annual_income,employment_sector,created_at
+CUST-000001,Michael,Miller,40,0.2,MORTGAGE,"$18,000.00",Healthcare,2022-11-19
+CUST-000002,Karen,Moore,47,11.7,RENT,"$73,457.51",Education,2022-08-13
+CUST-000003,Joseph,Johnson,69,9.6,RENT,"$40,656.33",Healthcare,2022-01-01
+CUST-000004,David,Taylor,25,5.5,RENT,"$45,352.34",Finance,2022-11-03
+CUST-000005,Linda,Hernandez,39,4.5,RENT,"$71,904.78",Services,2022-09-18
+CUST-000006,Michael,Lopez,61,11.1,RENT,"$81,243.57",Public Sector,2022-01-13
+CUST-000007,Charles,Jackson,53,1,OTHER,"$90,386.95",Finance,2022-02-17
+CUST-000008,David,Miller,22,0.4,MORTGAGE,"$27,243.75",Manufacturing,2022-11-09
+CUST-000009,David,Martin,30,1.4,MORTGAGE,"$100,002.19",Public Sector,2022-10-18
+CUST-000010,Patricia,Garcia,46,7.9,MORTGAGE,"$36,697.99",Manufacturing,2022-11-28
+CUST-000011,Linda,Smith,48,0.2,MORTGAGE,"$18,000.00",Healthcare,2022-04-04
+CUST-000012,John,Taylor,64,4.4,MORTGAGE,"$27,194.77",Retail,2022-09-18
+CUST-000013,Mary,Hernandez,33,26.9,MORTGAGE,"$54,666.84",Technology,2022-10-05
+CUST-000014,Barbara,Moore,59,9.7,MORTGAGE,"$30,049.25",Public Sector,2022-12-25
+CUST-000015,Jennifer,Taylor,47,3.7,RENT,"$46,909.61",Services,2022-07-24
+CUST-000016,Mary,Miller,33,0.3,MORTGAGE,"$58,053.85",Education,2022-07-04
+CUST-000017,James,Taylor,29,8.9,MORTGAGE,"$44,770.62",Technology,2022-06-24
+CUST-000018,Barbara,Martin,34,4.6,OWN,"$38,285.36",Healthcare,2022-11-05
+CUST-000019,Barbara,Rodriguez,33,0.6,MORTGAGE,"$26,229.81",Healthcare,2022-03-10
+CUST-000020,Thomas,Taylor,29,0.5,MORTGAGE,"$49,561.61",Services,2022-04-14
+CUST-000021,Elizabeth,Martin,25,12,RENT,"$18,000.00",Technology,2022-09-03
+CUST-000022,Jessica,Davis,37,5.5,MORTGAGE,"$34,787.07",Education,2022-06-10
+CUST-000023,Joseph,Taylor,20,8.8,RENT,"$30,825.82",Public Sector,2022-07-19
+CUST-000024,Joseph,Miller,33,10.6,RENT,"$43,491.10",Public Sector,2022-08-04
+CUST-000025,Charles,Smith,47,4.2,RENT,"$44,061.21",Technology,2022-07-31
+CUST-000026,Barbara,Gonzalez,62,3.6,MORTGAGE,"$79,219.55",Manufacturing,2022-01-16
+CUST-000027,Karen,Jackson,40,2.8,RENT,"$108,200.22",Finance,2022-11-28
+CUST-000028,John,Jackson,45,1.9,RENT,"$28,032.24",Retail,2022-07-24
+CUST-000029,Robert,Taylor,68,2.9,OWN,"$132,775.67",Manufacturing,2022-12-31
+CUST-000030,Charles,Gonzalez,57,7.4,RENT,"$33,201.56",Public Sector,2022-02-08
+CUST-000031,Michael,Thomas,22,4.6,MORTGAGE,"$53,437.25",Finance,2022-03-30
+CUST-000032,William,Davis,37,11.2,MORTGAGE,"$63,286.76",Retail,2022-09-13
+CUST-000033,Michael,Jackson,57,2.9,RENT,"$166,423.56",Retail,2022-09-11
+CUST-000034,Sarah,Moore,61,4.7,MORTGAGE,"$37,378.79",Retail,2022-08-04
+CUST-000035,Patricia,Smith,18,5,RENT,"$19,962.90",Healthcare,2022-10-30
+CUST-000036,Susan,Wilson,47,4.5,MORTGAGE,"$103,279.04",Services,2022-06-21
+CUST-000037,Sarah,Jackson,38,6.1,MORTGAGE,"$32,315.85",Retail,2022-05-17
+CUST-000038,William,Anderson,37,1.4,MORTGAGE,"$40,913.11",Education,2022-06-27
+CUST-000039,Mary,Moore,23,3.6,MORTGAGE,"$28,032.65",Technology,2022-03-18
+CUST-000040,Karen,Johnson,39,0.6,RENT,"$40,972.16",Public Sector,2022-07-07
+CUST-000041,Joseph,Taylor,35,2.4,RENT,"$32,202.66",Education,2022-01-15
+CUST-000042,Michael,Moore,25,3.3,MORTGAGE,"$68,749.24",Technology,2022-10-19
+CUST-000043,Barbara,Garcia,56,5.3,MORTGAGE,"$51,041.58",Manufacturing,2022-11-15
+CUST-000044,Linda,Jackson,49,15,OWN,"$34,873.15",Services,2022-11-21
+CUST-000045,Joseph,Brown,50,4.6,OWN,"$80,654.99",Manufacturing,2022-08-02
+CUST-000046,John,Smith,70,6.8,OWN,"$55,686.80",Technology,2022-07-27
+CUST-000047,Susan,Davis,33,3.5,MORTGAGE,"$19,476.73",Education,2022-06-18
+CUST-000048,Thomas,Miller,29,5,RENT,"$77,641.06",Technology,2022-11-26
+CUST-000049,Patricia,Williams,55,0.4,MORTGAGE,"$53,768.01",Retail,2022-10-07
+CUST-000050,Sarah,Martinez,69,1.5,MORTGAGE,"$98,259.40",Healthcare,2022-11-01
+CUST-000051,Linda,Martinez,51,2.2,RENT,"$52,154.13",Public Sector,2022-05-26
+CUST-000052,Patricia,Jackson,31,3.2,OWN,"$32,996.12",Manufacturing,2022-09-20
+CUST-000053,Mary,Wilson,53,0.2,OWN,"$44,260.70",Public Sector,2022-01-04
+CUST-000054,Jennifer,Johnson,50,0.8,MORTGAGE,"$73,273.89",Healthcare,2022-03-31
+CUST-000055,Elizabeth,Smith,40,1.6,RENT,"$33,343.94",Retail,2022-03-01
+CUST-000056,Patricia,Moore,67,17.8,RENT,"$39,334.28",Retail,2022-11-07
+CUST-000057,Sarah,Miller,62,2,OWN,"$43,877.45",Manufacturing,2022-01-16
+CUST-000058,Barbara,Davis,19,3.3,OWN,"$27,592.91",Manufacturing,2022-08-15
+CUST-000059,Mary,Smith,58,1.1,RENT,"$33,585.12",Retail,2022-01-29
+CUST-000060,Elizabeth,Williams,38,4.7,RENT,"$53,437.88",Finance,2022-05-31
+CUST-000061,Patricia,Davis,19,1.6,OWN,"$89,432.45",Public Sector,2022-09-02
+CUST-000062,Susan,Anderson,44,1.2,RENT,"$57,444.44",Services,2022-09-27
+CUST-000063,Jessica,Jones,26,3.6,MORTGAGE,"$47,909.51",Healthcare,2022-03-20
+CUST-000064,Joseph,Williams,18,0,OTHER,"$32,349.85",Public Sector,2022-10-16
+CUST-000065,Linda,Jackson,28,0,RENT,"$84,760.10",Healthcare,2022-06-02
+CUST-000066,Susan,Smith,20,1.2,MORTGAGE,"$60,885.65",Finance,2022-10-04
+CUST-000067,Linda,Anderson,69,0.2,RENT,"$34,428.33",Services,2022-10-06
+CUST-000068,Jessica,Davis,40,0.6,RENT,"$76,827.98",Education,2022-02-26
+CUST-000069,Richard,Johnson,43,2.1,OWN,"$64,847.17",Healthcare,2022-07-05
+CUST-000070,Sarah,Williams,21,8.1,MORTGAGE,"$32,638.07",Public Sector,2022-04-03
+CUST-000071,Joseph,Wilson,35,4.2,OTHER,"$46,597.91",Technology,2022-10-03
+CUST-000072,Richard,Wilson,23,3.6,MORTGAGE,"$38,315.65",Services,2022-06-07
+CUST-000073,William,Hernandez,52,1.7,RENT,"$182,913.56",Retail,2022-10-02
+CUST-000074,Joseph,Thomas,39,13.4,RENT,"$63,951.00",Retail,2022-06-30
+CUST-000075,Richard,Brown,60,2.5,RENT,"$53,818.96",Finance,2022-12-25
+CUST-000076,James,Martin,32,0.5,RENT,"$62,089.46",Healthcare,2022-03-18
+CUST-000077,Michael,Jones,39,4.8,RENT,"$97,692.62",Education,2022-05-31
+CUST-000078,William,Wilson,54,0.6,RENT,"$47,019.14",Healthcare,2022-08-26
+CUST-000079,James,Thomas,69,2.1,MORTGAGE,"$36,499.19",Retail,2022-10-16
+CUST-000080,Barbara,Moore,59,3.5,MORTGAGE,"$74,767.73",Manufacturing,2022-08-19
+CUST-000081,Linda,Miller,29,10.4,MORTGAGE,"$44,915.03",Technology,2022-01-18
+CUST-000082,David,Martinez,64,3.4,MORTGAGE,"$28,711.48",Services,2022-03-14
+CUST-000083,Charles,Miller,66,6.1,RENT,"$26,046.97",Finance,2022-07-08
+CUST-000084,Thomas,Smith,59,24.7,RENT,"$105,308.38",Manufacturing,2022-01-17
+CUST-000085,Linda,Jackson,55,0.7,MORTGAGE,"$52,356.02",Public Sector,2022-01-19
+CUST-000086,John,Thomas,35,1.6,MORTGAGE,"$36,505.43",Education,2022-08-07
+CUST-000087,John,Jackson,62,2.5,RENT,"$43,600.88",Manufacturing,2022-11-22
+CUST-000088,James,Brown,52,2.7,OWN,"$73,403.17",Public Sector,2022-04-30
+CUST-000089,Robert,Moore,47,2.6,MORTGAGE,"$42,331.94",Manufacturing,2022-04-11
+CUST-000090,Elizabeth,Johnson,41,11.9,MORTGAGE,"$23,748.87",Education,2022-02-03
+CUST-000091,Michael,Smith,59,6.3,RENT,"$57,694.69",Services,2022-03-25
+CUST-000092,William,Anderson,47,4.7,MORTGAGE,"$89,695.32",Manufacturing,2022-07-15
+CUST-000093,Michael,Jones,31,1.9,MORTGAGE,"$86,745.36",Finance,2022-11-26
+CUST-000094,William,Martin,23,8.7,MORTGAGE,"$37,061.54",Retail,2022-07-21
+CUST-000095,Linda,Hernandez,20,15.5,MORTGAGE,"$92,465.08",Healthcare,2022-12-10
+CUST-000096,Barbara,Martinez,33,8.6,OWN,"$54,528.29",Manufacturing,2022-12-07
+CUST-000097,Mary,Johnson,24,0,MORTGAGE,"$91,178.43",Finance,2022-01-11
+CUST-000098,James,Williams,69,5.1,RENT,"$65,306.28",Healthcare,2022-12-13
+CUST-000099,Jessica,Lopez,31,0.3,MORTGAGE,"$22,907.09",Services,2022-08-06
+CUST-000100,Robert,Martin,26,1.5,MORTGAGE,"$117,403.20",Public Sector,2022-09-10
+CUST-000101,John,Jones,32,0.3,MORTGAGE,"$50,306.62",Healthcare,2022-08-10
+CUST-000102,Barbara,Jones,38,4.6,RENT,"$65,407.81",Public Sector,2022-03-21
+CUST-000103,Linda,Garcia,52,5.8,RENT,"$25,033.69",Manufacturing,2022-01-07
+CUST-000104,John,Rodriguez,19,0.6,OWN,"$63,111.81",Finance,2022-09-29
+CUST-000105,James,Johnson,44,2.4,MORTGAGE,"$85,089.92",Retail,2022-08-15
+CUST-000106,John,Lopez,19,3,OWN,"$129,011.93",Manufacturing,2022-01-16
+CUST-000107,Robert,Williams,52,2.3,MORTGAGE,"$98,735.51",Public Sector,2022-01-12
+CUST-000108,Joseph,Martin,35,0.6,MORTGAGE,"$64,673.86",Education,2022-10-18
+CUST-000109,Susan,Lopez,31,2.7,MORTGAGE,"$22,647.65",Healthcare,2022-08-29
+CUST-000110,John,Taylor,37,7,OWN,"$52,372.47",Manufacturing,2022-01-21
+CUST-000111,James,Martinez,35,0.4,MORTGAGE,"$36,451.77",Public Sector,2022-06-27
+CUST-000112,Robert,Wilson,27,0.4,MORTGAGE,"$55,132.18",Services,2022-08-16
+CUST-000113,Susan,Taylor,42,2.2,RENT,"$26,684.47",Healthcare,2022-09-30
+CUST-000114,Michael,Moore,19,14.2,MORTGAGE,"$44,130.95",Services,2022-10-15
+CUST-000115,William,Jackson,42,5.5,MORTGAGE,"$37,850.84",Public Sector,2022-10-24
+CUST-000116,Joseph,Taylor,50,5.7,RENT,"$37,268.99",Finance,2022-05-14
+CUST-000117,Joseph,Wilson,53,2.2,RENT,"$37,454.49",Technology,2022-10-10
+CUST-000118,Elizabeth,Rodriguez,48,4.5,RENT,"$45,801.52",Services,2022-06-02
+CUST-000119,Richard,Davis,31,0.1,RENT,"$56,562.27",Manufacturing,2022-03-07
+CUST-000120,Charles,Johnson,18,5.1,RENT,"$18,000.00",Retail,2022-05-17
+CUST-000121,Michael,Gonzalez,63,12.2,MORTGAGE,"$18,000.00",Manufacturing,2022-04-02
+CUST-000122,Thomas,Miller,33,4.7,OWN,"$41,384.20",Healthcare,2022-11-13
+CUST-000123,Karen,Rodriguez,63,10.3,MORTGAGE,"$44,405.36",Finance,2022-09-16
+CUST-000124,Patricia,Hernandez,69,6.4,RENT,"$53,882.21",Public Sector,2022-04-13
+CUST-000125,Robert,Wilson,20,0.6,RENT,"$34,069.70",Education,2022-02-24
+CUST-000126,Michael,Brown,52,11.6,MORTGAGE,"$49,253.35",Retail,2022-09-14
+CUST-000127,Richard,Gonzalez,58,0.3,RENT,"$52,222.13",Finance,2022-04-11
+CUST-000128,Joseph,Johnson,23,3.8,OWN,"$33,952.61",Services,2022-07-17
+CUST-000129,David,Jones,42,0.8,MORTGAGE,"$81,367.23",Services,2022-10-28
+CUST-000130,Patricia,Hernandez,30,0.1,MORTGAGE,"$53,556.54",Manufacturing,2022-08-14
+CUST-000131,Richard,Garcia,70,2.7,RENT,"$64,439.40",Education,2022-08-25
+CUST-000132,Michael,Moore,51,1.7,MORTGAGE,"$50,737.62",Finance,2022-01-26
+CUST-000133,Charles,Martinez,25,3.3,RENT,"$140,341.86",Technology,2022-05-01
+CUST-000134,Mary,Brown,38,4.3,OWN,"$66,052.06",Retail,2022-07-01
+CUST-000135,Elizabeth,Rodriguez,51,0.2,MORTGAGE,"$38,407.32",Healthcare,2022-07-18
+CUST-000136,Richard,Garcia,21,0.7,RENT,"$73,901.13",Finance,2022-10-29
+CUST-000137,Jennifer,Johnson,42,4.1,RENT,"$21,616.18",Finance,2022-09-12
+CUST-000138,Barbara,Taylor,32,2.1,RENT,"$52,041.68",Technology,2022-05-02
+CUST-000139,Barbara,Jones,21,6.5,MORTGAGE,"$57,502.30",Manufacturing,2022-01-31
+CUST-000140,Karen,Garcia,62,5.3,RENT,"$52,339.70",Public Sector,2022-11-11
+CUST-000141,David,Lopez,29,9.3,MORTGAGE,"$41,485.97",Public Sector,2022-10-12
+CUST-000142,Michael,Martinez,49,5.9,RENT,"$29,550.72",Retail,2022-04-16
+CUST-000143,James,Garcia,49,2.8,MORTGAGE,"$33,035.12",Retail,2022-08-12
+CUST-000144,James,Davis,45,5.6,OWN,"$51,587.64",Healthcare,2022-09-30
+CUST-000145,Karen,Johnson,30,1.6,MORTGAGE,"$28,092.01",Finance,2022-08-20
+CUST-000146,Richard,Lopez,48,1.8,MORTGAGE,"$118,786.59",Education,2022-09-13
+CUST-000147,William,Gonzalez,31,7.8,RENT,"$18,000.00",Finance,2022-01-24
+CUST-000148,John,Miller,37,3,RENT,"$41,701.03",Public Sector,2022-04-19
+CUST-000149,Michael,Martinez,35,8,MORTGAGE,"$51,802.56",Healthcare,2022-07-10
+CUST-000150,Jennifer,Gonzalez,46,8.6,RENT,"$63,177.94",Finance,2022-12-13
+CUST-000151,Linda,Taylor,23,9.7,MORTGAGE,"$31,009.15",Technology,2022-01-25
+CUST-000152,William,Wilson,49,12.4,RENT,"$86,434.95",Public Sector,2022-07-06
+CUST-000153,Robert,Johnson,46,2.8,RENT,"$24,418.21",Finance,2022-10-15
+CUST-000154,James,Hernandez,60,1.9,RENT,"$36,935.77",Finance,2022-04-26
+CUST-000155,Charles,Smith,19,4.4,OWN,"$66,861.18",Public Sector,2022-12-04
+CUST-000156,Elizabeth,Jackson,40,2.3,RENT,"$82,462.12",Education,2022-02-06
+CUST-000157,Barbara,Brown,36,4.6,MORTGAGE,"$24,294.36",Public Sector,2022-10-09
+CUST-000158,Joseph,Jackson,48,6.1,RENT,"$183,968.24",Technology,2022-05-17
+CUST-000159,William,Hernandez,68,5.8,MORTGAGE,"$31,296.27",Technology,2022-08-15
+CUST-000160,Karen,Davis,22,2.3,RENT,"$25,435.69",Finance,2022-11-16
+CUST-000161,Thomas,Hernandez,36,0.9,OWN,"$63,029.46",Retail,2022-11-24
+CUST-000162,Thomas,Brown,51,2.8,OWN,"$41,185.98",Education,2022-07-01
+CUST-000163,Karen,Taylor,27,0.8,RENT,"$38,252.87",Finance,2022-12-28
+CUST-000164,Barbara,Miller,42,11,OWN,"$66,027.20",Public Sector,2022-03-27
+CUST-000165,Michael,Davis,19,2.1,OTHER,"$22,841.91",Finance,2022-02-22
+CUST-000166,Mary,Williams,28,0.8,OWN,"$20,929.87",Healthcare,2022-12-14
+CUST-000167,John,Johnson,67,0.1,OWN,"$36,362.32",Healthcare,2022-12-21
+CUST-000168,Thomas,Anderson,48,5.2,RENT,"$84,031.82",Retail,2022-08-23
+CUST-000169,Robert,Jones,32,5.1,MORTGAGE,"$37,159.41",Education,2022-09-24
+CUST-000170,Thomas,Smith,26,2.1,RENT,"$109,051.81",Manufacturing,2022-10-14
+CUST-000171,Thomas,Brown,40,0.4,RENT,"$89,367.05",Services,2022-04-10
+CUST-000172,Thomas,Anderson,36,2.6,OTHER,"$56,470.47",Healthcare,2022-03-28
+CUST-000173,Mary,Martin,26,1.9,RENT,"$58,096.57",Manufacturing,2022-01-15
+CUST-000174,Mary,Jackson,52,5.7,MORTGAGE,"$56,443.83",Technology,2022-04-11
+CUST-000175,Robert,Williams,38,4.7,OWN,"$53,096.11",Healthcare,2022-06-14
+CUST-000176,James,Martin,26,2.3,OWN,"$40,818.03",Healthcare,2022-01-29
+CUST-000177,James,Hernandez,45,1.2,OTHER,"$43,256.64",Education,2022-04-24
+CUST-000178,Charles,Taylor,63,22.1,RENT,"$28,710.55",Retail,2022-04-17
+CUST-000179,Mary,Gonzalez,68,3,RENT,"$18,000.00",Manufacturing,2022-12-30
+CUST-000180,Barbara,Hernandez,24,5.8,MORTGAGE,"$85,138.56",Public Sector,2022-05-10
+CUST-000181,Jennifer,Johnson,33,0.8,RENT,"$53,030.86",Healthcare,2022-03-25
+CUST-000182,Patricia,Rodriguez,33,3.3,RENT,"$49,173.28",Healthcare,2022-09-28
+CUST-000183,David,Johnson,50,0.1,RENT,"$59,827.73",Education,2022-09-01
+CUST-000184,Thomas,Rodriguez,21,3.5,MORTGAGE,"$32,396.36",Education,2022-08-02
+CUST-000185,Jennifer,Rodriguez,21,16.6,MORTGAGE,"$29,716.83",Retail,2022-11-02
+CUST-000186,Robert,Davis,56,2.4,RENT,"$42,538.19",Manufacturing,2022-06-15
+CUST-000187,Karen,Taylor,57,0.2,MORTGAGE,"$97,153.67",Technology,2022-10-06
+CUST-000188,Mary,Smith,34,0.2,RENT,"$27,326.97",Public Sector,2022-02-28
+CUST-000189,Jennifer,Hernandez,54,2.5,RENT,"$18,000.00",Retail,2022-03-31
+CUST-000190,David,Davis,56,0.9,MORTGAGE,"$37,771.10",Services,2022-11-27
+CUST-000191,Jessica,Martinez,69,0.1,MORTGAGE,"$86,798.96",Technology,2022-07-13
+CUST-000192,Jessica,Miller,46,7.1,MORTGAGE,"$20,614.05",Finance,2022-05-03
+CUST-000193,James,Williams,69,3.1,RENT,"$27,169.71",Healthcare,2022-05-16
+CUST-000194,William,Williams,53,1.7,OWN,"$55,925.37",Manufacturing,2022-05-19
+CUST-000195,Jennifer,Moore,55,11.5,MORTGAGE,"$177,185.68",Retail,2022-08-17
+CUST-000196,Jessica,Jones,56,0.6,MORTGAGE,"$24,856.99",Healthcare,2022-10-01
+CUST-000197,John,Lopez,67,15.6,MORTGAGE,"$24,380.35",Manufacturing,2022-02-19
+CUST-000198,Karen,Lopez,54,1.9,OWN,"$58,066.79",Manufacturing,2022-04-28
+CUST-000199,Patricia,Jackson,69,11,MORTGAGE,"$89,530.73",Manufacturing,2022-07-21
+CUST-000200,Charles,Garcia,52,4.6,MORTGAGE,"$35,880.55",Healthcare,2022-07-10
+CUST-000201,John,Johnson,24,8.8,OTHER,"$21,792.10",Retail,2022-12-30
+CUST-000202,Charles,Lopez,44,20.7,MORTGAGE,"$60,893.07",Public Sector,2022-11-19
+CUST-000203,Karen,Jackson,45,1.7,MORTGAGE,"$66,664.02",Education,2022-06-30
+CUST-000204,Michael,Jones,39,16.2,MORTGAGE,"$119,291.76",Healthcare,2022-03-19
+CUST-000205,Karen,Lopez,31,2.5,RENT,"$68,082.37",Services,2022-03-16
+CUST-000206,William,Taylor,24,2.4,RENT,"$74,163.92",Manufacturing,2022-10-22
+CUST-000207,James,Taylor,54,2.1,MORTGAGE,"$42,998.80",Retail,2022-10-08
+CUST-000208,Linda,Martinez,39,3.9,OWN,"$166,167.60",Public Sector,2022-01-21
+CUST-000209,Michael,Taylor,22,0.8,OWN,"$40,172.14",Finance,2022-06-20
+CUST-000210,Sarah,Anderson,19,4,RENT,"$36,099.67",Services,2022-01-15
+CUST-000211,Linda,Lopez,44,3.9,MORTGAGE,"$121,146.70",Technology,2022-07-30
+CUST-000212,James,Thomas,38,7.2,RENT,"$23,455.99",Services,2022-02-17
+CUST-000213,David,Jackson,55,9,OTHER,"$19,463.49",Manufacturing,2022-03-27
+CUST-000214,Sarah,Davis,32,2.9,OTHER,"$52,040.55",Finance,2022-05-29
+CUST-000215,Elizabeth,Taylor,38,1.8,MORTGAGE,"$48,978.26",Education,2022-07-07
+CUST-000216,John,Jones,27,1.5,OWN,"$43,741.65",Public Sector,2022-11-02
+CUST-000217,Michael,Thomas,40,1.1,MORTGAGE,"$80,576.71",Public Sector,2022-05-31
+CUST-000218,Jessica,Garcia,56,0.3,MORTGAGE,"$31,129.06",Manufacturing,2022-05-21
+CUST-000219,Jessica,Davis,22,2.1,RENT,"$50,619.06",Services,2022-03-10
+CUST-000220,Karen,Moore,18,1.6,MORTGAGE,"$40,943.45",Services,2022-09-17
+CUST-000221,Thomas,Lopez,30,17,MORTGAGE,"$31,394.59",Public Sector,2022-11-30
+CUST-000222,Mary,Anderson,38,4.1,MORTGAGE,"$47,528.27",Finance,2022-01-09
+CUST-000223,James,Rodriguez,43,2.1,RENT,"$75,079.13",Manufacturing,2022-05-01
+CUST-000224,Jessica,Gonzalez,67,4.3,OWN,"$141,532.42",Healthcare,2022-04-11
+CUST-000225,Barbara,Anderson,62,0.7,RENT,"$65,493.72",Retail,2022-05-29
+CUST-000226,Robert,Martinez,38,2.9,MORTGAGE,"$18,000.00",Finance,2022-05-26
+CUST-000227,Robert,Thomas,70,4.9,MORTGAGE,"$48,094.83",Retail,2022-12-19
+CUST-000228,William,Miller,35,3.4,MORTGAGE,"$50,256.81",Healthcare,2022-08-31
+CUST-000229,William,Taylor,54,2.6,MORTGAGE,"$78,284.47",Healthcare,2022-08-29
+CUST-000230,John,Miller,62,25.5,RENT,"$53,766.46",Retail,2022-12-03
+CUST-000231,Charles,Wilson,49,10.6,RENT,"$91,724.47",Finance,2022-02-12
+CUST-000232,Jessica,Anderson,53,4.9,MORTGAGE,"$59,625.30",Retail,2022-04-05
+CUST-000233,Jessica,Miller,34,4.2,MORTGAGE,"$106,873.27",Retail,2022-08-14
+CUST-000234,John,Rodriguez,52,4.8,RENT,"$39,364.79",Technology,2022-01-06
+CUST-000235,Karen,Jackson,66,1.1,MORTGAGE,"$52,689.51",Finance,2022-08-02
+CUST-000236,James,Thomas,28,2.5,MORTGAGE,"$74,111.11",Services,2022-07-25
+CUST-000237,Karen,Davis,38,0.2,MORTGAGE,"$36,823.92",Services,2022-03-08
+CUST-000238,David,Moore,69,3.2,OWN,"$33,024.12",Technology,2022-04-10
+CUST-000239,Thomas,Moore,70,3.9,RENT,"$35,786.43",Manufacturing,2022-01-12
+CUST-000240,Linda,Martin,43,1.3,RENT,"$33,704.69",Public Sector,2022-08-25
+CUST-000241,Patricia,Miller,21,16.6,MORTGAGE,"$63,658.04",Services,2022-11-18
+CUST-000242,Jennifer,Williams,51,12,MORTGAGE,"$19,586.50",Retail,2022-09-15
+CUST-000243,Linda,Moore,69,6.4,MORTGAGE,"$22,516.76",Manufacturing,2022-12-03
+CUST-000244,Karen,Martinez,65,3.8,OWN,"$124,414.40",Services,2022-05-15
+CUST-000245,John,Miller,35,10.2,OWN,"$34,113.61",Finance,2022-08-10
+CUST-000246,Jessica,Taylor,57,0.7,OTHER,"$54,176.77",Retail,2022-06-05
+CUST-000247,John,Wilson,52,7.8,MORTGAGE,"$23,281.79",Public Sector,2022-05-22
+CUST-000248,Sarah,Williams,58,0.7,MORTGAGE,"$51,382.97",Manufacturing,2022-06-07
+CUST-000249,Susan,Lopez,46,7.9,MORTGAGE,"$34,217.64",Services,2022-11-22
+CUST-000250,Sarah,Gonzalez,69,1.6,RENT,"$22,436.74",Services,2022-12-10
+CUST-000251,Mary,Johnson,46,10.5,MORTGAGE,"$95,650.88",Education,2022-09-19
+CUST-000252,John,Williams,55,14.4,RENT,"$88,546.48",Services,2022-10-10
+CUST-000253,Jessica,Jones,59,0.8,OWN,"$46,458.87",Healthcare,2022-12-04
+CUST-000254,William,Hernandez,38,3.1,MORTGAGE,"$80,798.16",Retail,2022-12-10
+CUST-000255,Patricia,Davis,59,19.8,MORTGAGE,"$126,962.41",Public Sector,2022-08-17
+CUST-000256,James,Lopez,30,3.3,RENT,"$71,470.35",Healthcare,2022-10-07
+CUST-000257,Patricia,Miller,66,10,RENT,"$62,307.67",Technology,2022-12-24
+CUST-000258,James,Anderson,58,4.4,RENT,"$54,147.92",Manufacturing,2022-10-17
+CUST-000259,Susan,Taylor,34,2.4,MORTGAGE,"$67,829.24",Services,2022-06-17
+CUST-000260,Jessica,Brown,26,1.7,RENT,"$40,865.45",Technology,2022-02-16
+CUST-000261,Karen,Gonzalez,58,1.1,MORTGAGE,"$42,688.38",Public Sector,2022-07-22
+CUST-000262,Linda,Moore,18,7.2,OWN,"$61,417.23",Retail,2022-08-02
+CUST-000263,Michael,Smith,19,2.4,OWN,"$38,679.60",Healthcare,2022-09-03
+CUST-000264,John,Thomas,65,3.6,MORTGAGE,"$40,827.05",Healthcare,2022-01-24
+CUST-000265,Thomas,Gonzalez,46,3.4,RENT,"$49,025.38",Manufacturing,2022-11-17
+CUST-000266,James,Martinez,50,4.3,OWN,"$87,142.83",Retail,2022-10-01
+CUST-000267,Jessica,Lopez,27,10,OWN,"$27,824.39",Services,2022-02-13
+CUST-000268,Barbara,Johnson,67,19.7,RENT,"$71,652.92",Education,2022-11-28
+CUST-000269,Charles,Williams,57,2.6,MORTGAGE,"$72,831.09",Education,2022-11-09
+CUST-000270,Susan,Martinez,38,8.8,RENT,"$72,613.49",Manufacturing,2022-12-29
+CUST-000271,Jennifer,Johnson,45,7.2,OWN,"$32,748.97",Retail,2022-06-05
+CUST-000272,Jennifer,Gonzalez,28,4.3,OTHER,"$21,029.03",Manufacturing,2022-07-18
+CUST-000273,Richard,Gonzalez,51,15.6,RENT,"$64,851.17",Retail,2022-06-11
+CUST-000274,Charles,Moore,25,1.1,OWN,"$53,839.86",Public Sector,2022-08-22
+CUST-000275,Linda,Williams,39,0.6,MORTGAGE,"$80,998.69",Public Sector,2022-06-12
+CUST-000276,Mary,Miller,25,9.6,OTHER,"$34,535.10",Technology,2022-04-26
+CUST-000277,James,Wilson,66,2.9,MORTGAGE,"$71,686.60",Services,2022-04-03
+CUST-000278,Joseph,Martin,32,9.4,OWN,"$83,050.66",Manufacturing,2022-02-11
+CUST-000279,James,Taylor,34,11.2,RENT,"$46,739.51",Services,2022-10-11
+CUST-000280,Robert,Lopez,40,0.3,RENT,"$60,383.11",Retail,2022-07-29
+CUST-000281,Jessica,Thomas,41,10.7,RENT,"$59,336.70",Education,2022-07-25
+CUST-000282,Charles,Lopez,62,3,OTHER,"$32,508.77",Services,2022-08-08
+CUST-000283,Patricia,Anderson,36,3.6,OWN,"$63,930.27",Retail,2022-10-07
+CUST-000284,John,Martinez,22,4.9,OWN,"$110,331.99",Public Sector,2022-05-16
+CUST-000285,Thomas,Miller,49,13,OWN,"$49,568.06",Retail,2022-04-16
+CUST-000286,Thomas,Martin,61,0.1,RENT,"$23,612.64",Manufacturing,2022-04-28
+CUST-000287,Barbara,Jones,18,3.2,RENT,"$34,765.71",Technology,2022-08-25
+CUST-000288,Susan,Smith,40,5.8,RENT,"$20,136.42",Technology,2022-11-05
+CUST-000289,Jennifer,Taylor,54,6.4,RENT,"$93,445.21",Technology,2022-04-10
+CUST-000290,John,Williams,25,5.9,RENT,"$71,829.65",Technology,2022-09-18
+CUST-000291,William,Gonzalez,30,0.7,MORTGAGE,"$38,151.31",Public Sector,2022-11-01
+CUST-000292,Robert,Wilson,25,1.8,RENT,"$24,124.18",Finance,2022-12-20
+CUST-000293,Thomas,Moore,40,2.2,RENT,"$32,317.12",Services,2022-10-13
+CUST-000294,Susan,Brown,60,8.2,RENT,"$35,627.09",Manufacturing,2022-11-24
+CUST-000295,John,Moore,18,1.6,RENT,"$51,777.13",Healthcare,2022-04-13
+CUST-000296,James,Jones,62,1.2,OTHER,"$50,913.31",Manufacturing,2022-03-04
+CUST-000297,Karen,Thomas,68,15.8,MORTGAGE,"$95,866.89",Finance,2022-06-24
+CUST-000298,James,Smith,41,0,OTHER,"$34,669.74",Technology,2022-10-09
+CUST-000299,John,Wilson,52,30.6,MORTGAGE,"$23,061.18",Finance,2022-10-20
+CUST-000300,Sarah,Anderson,41,5.6,RENT,"$27,488.16",Education,2022-08-14
+CUST-000301,Elizabeth,Rodriguez,34,8.8,MORTGAGE,"$48,459.69",Education,2022-01-07
+CUST-000302,John,Anderson,22,1.7,RENT,"$34,052.58",Services,2022-05-07
+CUST-000303,Linda,Taylor,37,0.1,RENT,"$42,361.52",Public Sector,2022-04-02
+CUST-000304,Susan,Brown,38,6.7,RENT,"$39,065.04",Manufacturing,2022-07-09
+CUST-000305,Sarah,Lopez,57,9,RENT,"$80,428.13",Manufacturing,2022-12-25
+CUST-000306,Joseph,Jones,48,6.7,RENT,"$36,552.95",Healthcare,2022-02-22
+CUST-000307,Mary,Jones,63,0.8,RENT,"$40,592.11",Public Sector,2022-08-30
+CUST-000308,Elizabeth,Hernandez,53,7,MORTGAGE,"$70,167.59",Healthcare,2022-05-12
+CUST-000309,Mary,Garcia,28,7.3,RENT,"$36,956.95",Education,2022-12-30
+CUST-000310,Thomas,Miller,69,5.4,RENT,"$60,573.10",Technology,2022-04-22
+CUST-000311,Linda,Wilson,32,7.3,OWN,"$57,857.75",Finance,2022-01-07
+CUST-000312,James,Hernandez,36,9.4,RENT,"$52,621.65",Healthcare,2022-08-18
+CUST-000313,William,Gonzalez,24,4.8,RENT,"$27,800.29",Retail,2022-06-05
+CUST-000314,David,Johnson,68,0.5,OWN,"$90,661.41",Healthcare,2022-07-16
+CUST-000315,Jessica,Miller,45,3.3,RENT,"$148,797.54",Technology,2022-11-19
+CUST-000316,Michael,Martin,68,0.4,RENT,"$49,237.66",Technology,2022-12-30
+CUST-000317,Elizabeth,Brown,60,2.6,MORTGAGE,"$29,051.42",Manufacturing,2022-08-11
+CUST-000318,John,Davis,22,2.6,RENT,"$49,739.34",Finance,2022-09-07
+CUST-000319,Sarah,Martin,22,0.3,MORTGAGE,"$80,412.91",Technology,2022-03-24
+CUST-000320,Richard,Jackson,47,2.1,OWN,"$36,040.77",Public Sector,2022-08-28
+CUST-000321,Michael,Gonzalez,49,0.6,RENT,"$45,961.09",Healthcare,2022-12-26
+CUST-000322,Patricia,Wilson,25,8.3,MORTGAGE,"$58,123.60",Healthcare,2022-11-19
+CUST-000323,Richard,Martinez,27,14.8,MORTGAGE,"$89,457.95",Education,2022-09-20
+CUST-000324,Karen,Hernandez,55,0.4,RENT,"$72,237.30",Technology,2022-07-08
+CUST-000325,James,Johnson,64,15.5,MORTGAGE,"$73,749.83",Retail,2022-10-17
+CUST-000326,Linda,Rodriguez,49,3.7,RENT,"$39,611.14",Manufacturing,2022-12-28
+CUST-000327,Susan,Taylor,65,1.8,MORTGAGE,"$59,931.62",Finance,2022-02-27
+CUST-000328,Jessica,Williams,45,0.4,RENT,"$34,167.10",Retail,2022-01-09
+CUST-000329,Susan,Garcia,34,3.5,MORTGAGE,"$74,814.20",Manufacturing,2022-10-31
+CUST-000330,Barbara,Jones,48,7.9,RENT,"$87,169.50",Healthcare,2022-04-25
+CUST-000331,Charles,Jones,25,6.1,OWN,"$64,646.02",Retail,2022-07-29
+CUST-000332,Joseph,Anderson,57,0.3,RENT,"$40,794.18",Manufacturing,2022-02-10
+CUST-000333,Mary,Taylor,42,0.4,MORTGAGE,"$44,273.27",Healthcare,2022-10-31
+CUST-000334,Mary,Rodriguez,26,2.6,MORTGAGE,"$120,965.19",Healthcare,2022-06-22
+CUST-000335,Charles,Williams,19,1.7,MORTGAGE,"$41,136.24",Healthcare,2022-08-22
+CUST-000336,Thomas,Martin,32,1.3,MORTGAGE,"$82,867.41",Healthcare,2022-10-08
+CUST-000337,Karen,Taylor,67,1.6,MORTGAGE,"$58,072.40",Public Sector,2022-03-19
+CUST-000338,Elizabeth,Martinez,20,8.1,MORTGAGE,"$41,478.55",Healthcare,2022-04-18
+CUST-000339,Jennifer,Williams,66,13.2,OWN,"$25,026.12",Education,2022-10-08
+CUST-000340,Joseph,Moore,53,2.6,RENT,"$54,491.51",Retail,2022-02-08
+CUST-000341,David,Moore,21,11.8,MORTGAGE,"$51,305.36",Manufacturing,2022-04-29
+CUST-000342,Robert,Taylor,31,1.9,OWN,"$120,966.31",Education,2022-12-01
+CUST-000343,James,Williams,58,3.2,OTHER,"$31,885.40",Public Sector,2022-12-02
+CUST-000344,Linda,Williams,58,1.3,OWN,"$154,412.72",Services,2022-01-27
+CUST-000345,Barbara,Garcia,42,5.1,RENT,"$59,243.14",Services,2022-04-14
+CUST-000346,Barbara,Gonzalez,67,19.3,RENT,"$59,214.08",Education,2022-03-15
+CUST-000347,Robert,Anderson,27,4.6,MORTGAGE,"$36,441.52",Technology,2022-07-10
+CUST-000348,Michael,Rodriguez,38,2.2,MORTGAGE,"$57,374.38",Technology,2022-11-20
+CUST-000349,Patricia,Brown,53,5.2,MORTGAGE,"$62,101.50",Technology,2022-05-27
+CUST-000350,Jennifer,Wilson,29,0.7,MORTGAGE,"$78,328.25",Finance,2022-09-12
+CUST-000351,Richard,Jones,44,11,OWN,"$30,056.64",Technology,2022-10-11
+CUST-000352,Karen,Johnson,57,3.5,RENT,"$99,051.03",Manufacturing,2022-08-01
+CUST-000353,Joseph,Hernandez,19,3,OWN,"$58,730.11",Education,2022-05-03
+CUST-000354,John,Rodriguez,30,4.4,MORTGAGE,"$66,443.98",Manufacturing,2022-07-25
+CUST-000355,Linda,Williams,70,4.9,RENT,"$43,893.82",Retail,2022-08-28
+CUST-000356,Karen,Rodriguez,49,0.4,MORTGAGE,"$30,820.30",Technology,2022-12-05
+CUST-000357,Jessica,Williams,48,5.7,MORTGAGE,"$50,836.12",Public Sector,2022-10-13
+CUST-000358,Richard,Johnson,33,1.4,RENT,"$53,833.31",Finance,2022-01-22
+CUST-000359,Sarah,Lopez,49,6.3,RENT,"$24,521.02",Retail,2022-09-16
+CUST-000360,Elizabeth,Martinez,49,8.6,OTHER,"$72,885.33",Public Sector,2022-12-23
+CUST-000361,Charles,Rodriguez,51,8.1,RENT,"$80,681.32",Finance,2022-04-15
+CUST-000362,Thomas,Anderson,28,4,MORTGAGE,"$34,035.78",Services,2022-09-15
+CUST-000363,Charles,Davis,27,3.7,MORTGAGE,"$29,398.75",Retail,2022-07-23
+CUST-000364,Robert,Jones,32,0.8,MORTGAGE,"$42,130.17",Services,2022-11-06
+CUST-000365,William,Hernandez,34,7.5,MORTGAGE,"$49,609.99",Education,2022-09-19
+CUST-000366,Barbara,Johnson,57,1.6,RENT,"$42,955.26",Manufacturing,2022-04-17
+CUST-000367,James,Anderson,35,3.4,MORTGAGE,"$47,550.19",Healthcare,2022-09-08
+CUST-000368,James,Garcia,26,1.7,RENT,"$54,761.29",Manufacturing,2022-08-09
+CUST-000369,Joseph,Davis,42,0.7,MORTGAGE,"$24,732.30",Technology,2022-08-10
+CUST-000370,Mary,Jones,57,5,RENT,"$26,195.74",Services,2022-09-15
+CUST-000371,Jessica,Thomas,31,0.3,MORTGAGE,"$18,000.00",Public Sector,2022-07-20
+CUST-000372,Linda,Moore,42,6.9,RENT,"$78,532.88",Healthcare,2022-09-15
+CUST-000373,Richard,Garcia,67,1.9,RENT,"$49,395.45",Finance,2022-12-15
+CUST-000374,James,Jones,39,0,RENT,"$82,778.66",Services,2022-08-13
+CUST-000375,Jessica,Thomas,69,3.6,RENT,"$27,753.88",Education,2022-07-21
+CUST-000376,Michael,Gonzalez,47,0.2,OWN,"$49,622.70",Education,2022-08-14
+CUST-000377,Robert,Jones,37,1.6,RENT,"$54,579.48",Services,2022-08-24
+CUST-000378,John,Gonzalez,38,6.1,OWN,"$37,016.12",Services,2022-07-02
+CUST-000379,Barbara,Taylor,61,0.3,OTHER,"$22,545.39",Services,2022-07-19
+CUST-000380,Jessica,Moore,49,9.1,MORTGAGE,"$117,352.28",Finance,2022-12-23
+CUST-000381,Charles,Davis,68,0,RENT,"$98,680.40",Technology,2022-09-03
+CUST-000382,Robert,Gonzalez,63,1.4,RENT,"$40,499.05",Finance,2022-12-19
+CUST-000383,Susan,Jackson,66,6.8,MORTGAGE,"$63,266.66",Retail,2022-04-21
+CUST-000384,Robert,Williams,38,1.9,RENT,"$38,468.87",Public Sector,2022-01-06
+CUST-000385,Joseph,Davis,52,0.5,RENT,"$29,801.03",Services,2022-08-24
+CUST-000386,Thomas,Johnson,49,2.2,MORTGAGE,"$122,226.45",Public Sector,2022-05-07
+CUST-000387,Susan,Davis,47,1.6,OWN,"$21,425.04",Technology,2022-04-14
+CUST-000388,Karen,Gonzalez,56,9.2,MORTGAGE,"$42,499.52",Healthcare,2022-08-25
+CUST-000389,Robert,Gonzalez,66,1.9,RENT,"$51,131.80",Finance,2022-06-04
+CUST-000390,Barbara,Smith,29,7.8,MORTGAGE,"$111,928.81",Technology,2022-09-14
+CUST-000391,Jessica,Garcia,58,11.1,RENT,"$76,748.90",Public Sector,2022-08-23
+CUST-000392,Jessica,Jackson,64,2.8,RENT,"$21,244.96",Healthcare,2022-10-16
+CUST-000393,Michael,Thomas,35,12,OWN,"$48,953.44",Finance,2022-02-09
+CUST-000394,Patricia,Davis,38,2.4,RENT,"$49,539.72",Education,2022-10-15
+CUST-000395,James,Smith,30,16.6,RENT,"$43,731.80",Finance,2022-07-16
+CUST-000396,Robert,Thomas,38,0.5,RENT,"$66,829.81",Manufacturing,2022-09-30
+CUST-000397,Elizabeth,Rodriguez,25,5.8,OWN,"$24,232.42",Finance,2022-09-21
+CUST-000398,Robert,Gonzalez,63,3.4,MORTGAGE,"$39,961.91",Manufacturing,2022-02-26
+CUST-000399,Patricia,Hernandez,57,2.5,MORTGAGE,"$62,280.86",Healthcare,2022-10-25
+CUST-000400,Mary,Gonzalez,63,5,MORTGAGE,"$68,857.05",Finance,2022-04-08
+CUST-000401,Karen,Martinez,24,6.1,RENT,"$52,823.41",Healthcare,2022-05-17
+CUST-000402,Elizabeth,Brown,40,0,MORTGAGE,"$42,438.19",Healthcare,2022-03-28
+CUST-000403,Charles,Garcia,61,0.9,RENT,"$46,167.41",Public Sector,2022-08-30
+CUST-000404,James,Miller,49,6.2,RENT,"$70,983.56",Technology,2022-07-18
+CUST-000405,Robert,Jones,28,5.5,MORTGAGE,"$49,858.81",Healthcare,2022-11-06
+CUST-000406,Richard,Hernandez,39,16.9,OWN,"$29,116.96",Healthcare,2022-03-25
+CUST-000407,Patricia,Gonzalez,39,7.2,RENT,"$26,456.34",Public Sector,2022-08-30
+CUST-000408,Jessica,Jackson,60,15.1,RENT,"$23,276.08",Public Sector,2022-10-08
+CUST-000409,Jessica,Martinez,42,6.1,RENT,"$101,497.60",Finance,2022-11-19
+CUST-000410,Mary,Martinez,39,1.8,RENT,"$73,403.80",Public Sector,2022-09-09
+CUST-000411,Thomas,Hernandez,45,0.6,OWN,"$46,479.01",Finance,2022-07-09
+CUST-000412,Karen,Miller,46,7.6,MORTGAGE,"$39,069.75",Education,2022-06-01
+CUST-000413,Barbara,Moore,30,5.2,MORTGAGE,"$36,791.97",Public Sector,2022-10-29
+CUST-000414,Sarah,Brown,35,0.2,MORTGAGE,"$84,678.63",Technology,2022-10-05
+CUST-000415,John,Johnson,19,2.2,RENT,"$127,034.85",Healthcare,2022-05-19
+CUST-000416,James,Wilson,46,15.7,MORTGAGE,"$36,217.71",Technology,2022-06-25
+CUST-000417,James,Gonzalez,38,3.5,MORTGAGE,"$86,613.22",Manufacturing,2022-01-08
+CUST-000418,Charles,Lopez,32,2.8,MORTGAGE,"$49,712.24",Services,2022-10-22
+CUST-000419,David,Miller,69,3.1,OTHER,"$44,081.06",Public Sector,2022-08-23
+CUST-000420,Robert,Johnson,44,1.2,MORTGAGE,"$103,995.94",Healthcare,2022-06-12
+CUST-000421,Barbara,Gonzalez,67,2.3,RENT,"$48,772.27",Technology,2022-02-18
+CUST-000422,John,Wilson,48,2.3,OWN,"$56,850.61",Public Sector,2022-10-29
+CUST-000423,James,Taylor,32,0.3,RENT,"$55,499.93",Public Sector,2022-02-07
+CUST-000424,James,Rodriguez,68,7.3,RENT,"$21,746.33",Services,2022-05-16
+CUST-000425,Linda,Taylor,40,2.7,RENT,"$56,624.98",Education,2022-11-06
+CUST-000426,Elizabeth,Davis,41,8.6,RENT,"$36,999.29",Education,2022-08-07
+CUST-000427,David,Johnson,61,9.5,MORTGAGE,"$24,086.90",Healthcare,2022-12-14
+CUST-000428,Barbara,Gonzalez,30,1.2,MORTGAGE,"$37,851.71",Manufacturing,2022-10-23
+CUST-000429,Richard,Williams,39,5.4,OWN,"$37,695.86",Education,2022-02-03
+CUST-000430,Barbara,Thomas,60,3.2,MORTGAGE,"$82,038.28",Services,2022-12-18
+CUST-000431,Susan,Garcia,54,10.6,MORTGAGE,"$28,799.27",Education,2022-03-20
+CUST-000432,Mary,Jackson,50,1.2,RENT,"$33,026.85",Manufacturing,2022-08-24
+CUST-000433,Charles,Miller,20,5.7,RENT,"$55,143.50",Technology,2022-09-30
+CUST-000434,Sarah,Martinez,36,4.7,MORTGAGE,"$25,263.18",Education,2022-06-10
+CUST-000435,John,Rodriguez,40,1.7,MORTGAGE,"$35,259.72",Services,2022-06-24
+CUST-000436,Thomas,Johnson,46,0.7,OWN,"$21,327.69",Finance,2022-11-04
+CUST-000437,Linda,Anderson,47,5.3,RENT,"$77,653.02",Services,2022-08-09
+CUST-000438,Elizabeth,Jones,56,6.7,RENT,"$42,163.85",Retail,2022-01-09
+CUST-000439,Mary,Brown,61,1.9,MORTGAGE,"$48,632.20",Retail,2022-10-16
+CUST-000440,Charles,Martin,64,5.2,RENT,"$77,497.83",Education,2022-04-23
+CUST-000441,William,Brown,42,2.5,RENT,"$34,161.88",Technology,2022-07-24
+CUST-000442,Michael,Moore,54,6.2,MORTGAGE,"$41,940.47",Public Sector,2022-07-05
+CUST-000443,Patricia,Brown,64,1.1,RENT,"$28,906.91",Technology,2022-12-07
+CUST-000444,Sarah,Taylor,25,11,MORTGAGE,"$28,875.48",Services,2022-07-16
+CUST-000445,Richard,Lopez,59,1.7,RENT,"$30,937.01",Healthcare,2022-09-23
+CUST-000446,David,Taylor,33,2.3,RENT,"$38,321.06",Finance,2022-09-19
+CUST-000447,Patricia,Martinez,25,0.3,RENT,"$40,441.11",Technology,2022-09-05
+CUST-000448,Patricia,Smith,18,0.6,OWN,"$56,631.24",Manufacturing,2022-04-25
+CUST-000449,Elizabeth,Moore,61,3.6,RENT,"$31,394.61",Services,2022-05-01
+CUST-000450,Robert,Moore,22,1.6,MORTGAGE,"$57,515.88",Finance,2022-05-21
+CUST-000451,William,Wilson,20,9,RENT,"$62,473.68",Retail,2022-03-06
+CUST-000452,John,Anderson,18,0.1,MORTGAGE,"$38,796.64",Services,2022-10-03
+CUST-000453,Thomas,Lopez,21,2.4,RENT,"$32,782.09",Finance,2022-11-09
+CUST-000454,John,Brown,57,2.1,MORTGAGE,"$51,151.11",Manufacturing,2022-08-27
+CUST-000455,Jessica,Williams,52,0.1,MORTGAGE,"$44,291.20",Education,2022-10-29
+CUST-000456,Patricia,Martin,49,0.7,OWN,"$54,730.47",Manufacturing,2022-01-10
+CUST-000457,Sarah,Lopez,59,2.7,RENT,"$107,466.37",Manufacturing,2022-08-21
+CUST-000458,Thomas,Miller,51,3.4,RENT,"$50,732.32",Education,2022-07-14
+CUST-000459,Michael,Hernandez,60,2.6,RENT,"$35,610.10",Education,2022-01-12
+CUST-000460,Robert,Smith,42,3.8,OWN,"$31,399.75",Education,2022-06-26
+CUST-000461,Barbara,Garcia,27,4.5,MORTGAGE,"$32,013.06",Education,2022-06-26
+CUST-000462,Thomas,Anderson,38,0,MORTGAGE,"$23,590.91",Education,2022-08-05
+CUST-000463,Richard,Anderson,63,3.1,RENT,"$78,148.94",Manufacturing,2022-01-11
+CUST-000464,John,Jackson,56,16.6,RENT,"$18,000.00",Healthcare,2022-04-28
+CUST-000465,William,Hernandez,44,3.7,RENT,"$62,570.70",Healthcare,2022-06-13
+CUST-000466,Thomas,Johnson,44,5.7,OTHER,"$31,760.16",Services,2022-02-08
+CUST-000467,Thomas,Wilson,19,1.9,MORTGAGE,"$37,941.37",Technology,2022-02-22
+CUST-000468,Karen,Johnson,58,7.4,OWN,"$31,288.51",Healthcare,2022-08-06
+CUST-000469,Jessica,Brown,65,7.4,RENT,"$101,005.71",Retail,2022-07-25
+CUST-000470,Richard,Taylor,30,3.7,MORTGAGE,"$49,422.34",Healthcare,2022-11-08
+CUST-000471,Charles,Williams,26,18.7,MORTGAGE,"$72,779.48",Manufacturing,2022-12-26
+CUST-000472,Thomas,Gonzalez,69,0.7,RENT,"$93,926.09",Education,2022-02-25
+CUST-000473,Patricia,Rodriguez,53,0.1,OWN,"$53,194.10",Services,2022-04-28
+CUST-000474,Barbara,Miller,39,7.4,OWN,"$26,962.12",Education,2022-09-10
+CUST-000475,William,Anderson,59,8.2,OWN,"$43,900.40",Public Sector,2022-10-13
+CUST-000476,Charles,Hernandez,43,0.6,MORTGAGE,"$33,822.31",Public Sector,2022-09-25
+CUST-000477,Barbara,Martin,29,1.5,RENT,"$38,110.61",Public Sector,2022-10-18
+CUST-000478,William,Johnson,34,0.1,RENT,"$46,755.54",Manufacturing,2022-11-29
+CUST-000479,Michael,Anderson,31,1.7,OTHER,"$45,840.45",Retail,2022-06-29
+CUST-000480,Susan,Wilson,31,7.4,RENT,"$60,237.75",Healthcare,2022-12-24
+CUST-000481,Karen,Martin,51,3.6,MORTGAGE,"$64,773.52",Manufacturing,2022-08-23
+CUST-000482,Charles,Hernandez,70,2.1,MORTGAGE,"$45,840.69",Technology,2022-12-09
+CUST-000483,Joseph,Williams,37,2.3,MORTGAGE,"$59,978.08",Services,2022-07-15
+CUST-000484,Jessica,Taylor,28,0,OTHER,"$37,246.75",Education,2022-11-04
+CUST-000485,Robert,Lopez,33,1.8,RENT,"$94,597.84",Public Sector,2022-03-21
+CUST-000486,John,Anderson,68,5.2,RENT,"$36,947.17",Finance,2022-05-15
+CUST-000487,Barbara,Thomas,48,18.3,RENT,"$89,196.16",Technology,2022-01-22
+CUST-000488,Karen,Jones,23,9.4,MORTGAGE,"$23,434.54",Public Sector,2022-11-27
+CUST-000489,Patricia,Martin,36,0.1,RENT,"$40,529.95",Retail,2022-08-13
+CUST-000490,Jessica,Garcia,54,11.4,RENT,"$41,544.11",Technology,2022-02-27
+CUST-000491,Michael,Jackson,21,7.6,OWN,"$56,358.93",Manufacturing,2022-04-03
+CUST-000492,Richard,Jones,64,7.6,OWN,"$75,426.08",Healthcare,2022-07-11
+CUST-000493,Elizabeth,Williams,21,3.1,RENT,"$26,246.88",Education,2022-04-13
+CUST-000494,Michael,Smith,37,2.5,RENT,"$28,169.88",Services,2022-01-07
+CUST-000495,Susan,Garcia,27,1.8,OWN,"$24,319.80",Retail,2022-05-08
+CUST-000496,Robert,Anderson,41,0.3,RENT,"$94,853.81",Retail,2022-02-24
+CUST-000497,John,Johnson,52,1.3,RENT,"$56,885.88",Finance,2022-08-19
+CUST-000498,David,Williams,43,1.4,RENT,"$28,504.42",Technology,2022-12-28
+CUST-000499,David,Taylor,54,3.3,MORTGAGE,"$39,279.29",Finance,2022-03-03
+CUST-000500,Sarah,Lopez,55,6.9,RENT,"$88,510.87",Healthcare,2022-08-28
+CUST-000501,Joseph,Moore,38,3.2,OTHER,"$42,656.73",Public Sector,2022-03-31
+CUST-000502,Barbara,Anderson,57,0.3,MORTGAGE,"$41,415.31",Healthcare,2022-08-20
+CUST-000503,William,Lopez,56,15.8,MORTGAGE,"$33,168.36",Public Sector,2022-08-21
+CUST-000504,Elizabeth,Thomas,38,14.3,RENT,"$29,363.39",Finance,2022-12-20
+CUST-000505,Barbara,Davis,27,7.7,MORTGAGE,"$88,580.05",Education,2022-11-29
+CUST-000506,Thomas,Wilson,55,23.7,MORTGAGE,"$113,204.45",Healthcare,2022-10-19
+CUST-000507,Jennifer,Taylor,63,3.9,MORTGAGE,"$29,953.54",Finance,2022-12-11
+CUST-000508,Michael,Davis,21,16.5,MORTGAGE,"$98,960.02",Technology,2022-06-01
+CUST-000509,Susan,Anderson,62,0.4,MORTGAGE,"$38,418.92",Finance,2022-05-25
+CUST-000510,Richard,Wilson,37,2.3,OWN,"$64,011.88",Finance,2022-05-10
+CUST-000511,Linda,Moore,34,1.3,OWN,"$99,221.19",Manufacturing,2022-05-21
+CUST-000512,Elizabeth,Martin,24,1.1,MORTGAGE,"$45,590.82",Healthcare,2022-04-03
+CUST-000513,William,Miller,21,0.8,RENT,"$41,607.22",Services,2022-04-24
+CUST-000514,Sarah,Williams,46,4.9,RENT,"$73,169.98",Education,2022-10-11
+CUST-000515,Mary,Lopez,31,7.6,RENT,"$28,142.15",Education,2022-05-23
+CUST-000516,Robert,Williams,20,4.3,MORTGAGE,"$86,988.46",Manufacturing,2022-08-11
+CUST-000517,Robert,Martin,41,0.8,MORTGAGE,"$52,649.11",Public Sector,2022-08-20
+CUST-000518,Jennifer,Wilson,54,8.3,MORTGAGE,"$36,721.76",Retail,2022-02-02
+CUST-000519,Charles,Anderson,33,5.1,OWN,"$36,239.91",Public Sector,2022-10-03
+CUST-000520,Linda,Wilson,69,2.5,OWN,"$24,545.13",Education,2022-06-19
+CUST-000521,Jessica,Miller,21,5.6,OWN,"$37,493.16",Finance,2022-05-20
+CUST-000522,Richard,Taylor,41,1.5,RENT,"$42,958.13",Manufacturing,2022-12-23
+CUST-000523,James,Lopez,51,2.1,MORTGAGE,"$28,835.23",Technology,2022-07-20
+CUST-000524,Karen,Martin,47,12.5,RENT,"$47,919.01",Healthcare,2022-01-23
+CUST-000525,Thomas,Brown,35,1.7,RENT,"$62,097.35",Healthcare,2022-08-12
+CUST-000526,Michael,Rodriguez,36,3.2,RENT,"$44,058.08",Services,2022-09-27
+CUST-000527,Richard,Garcia,48,11,RENT,"$68,279.37",Healthcare,2022-12-13
+CUST-000528,Patricia,Thomas,36,6.2,MORTGAGE,"$32,742.53",Finance,2022-06-02
+CUST-000529,Patricia,Johnson,66,0.3,OWN,"$80,958.45",Technology,2022-11-29
+CUST-000530,Jennifer,Davis,63,0.8,RENT,"$52,099.33",Manufacturing,2022-03-26
+CUST-000531,Charles,Hernandez,36,0,MORTGAGE,"$106,152.14",Manufacturing,2022-04-19
+CUST-000532,Barbara,Gonzalez,39,5,MORTGAGE,"$163,915.88",Healthcare,2022-01-31
+CUST-000533,Michael,Taylor,41,3,RENT,"$38,749.70",Technology,2022-08-17
+CUST-000534,Elizabeth,Davis,62,0.7,MORTGAGE,"$39,555.82",Technology,2022-08-28
+CUST-000535,Charles,Moore,29,15.8,RENT,"$43,342.07",Technology,2022-12-29
+CUST-000536,Michael,Moore,47,3.8,MORTGAGE,"$66,029.12",Education,2022-11-06
+CUST-000537,John,Wilson,55,1.4,MORTGAGE,"$95,128.60",Education,2022-05-21
+CUST-000538,Richard,Anderson,70,3.5,RENT,"$35,369.17",Healthcare,2022-06-05
+CUST-000539,Richard,Garcia,48,5.7,RENT,"$59,315.27",Technology,2022-10-26
+CUST-000540,Sarah,Hernandez,53,0.4,MORTGAGE,"$45,799.86",Retail,2022-12-11
+CUST-000541,Karen,Gonzalez,36,1.6,OWN,"$66,773.03",Technology,2022-04-09
+CUST-000542,Linda,Smith,65,8.2,RENT,"$104,268.94",Manufacturing,2022-02-16
+CUST-000543,William,Garcia,62,3.1,MORTGAGE,"$43,470.42",Manufacturing,2022-11-23
+CUST-000544,Michael,Rodriguez,53,4,MORTGAGE,"$21,270.28",Healthcare,2022-03-08
+CUST-000545,James,Davis,47,2.8,OWN,"$71,107.70",Retail,2022-03-03
+CUST-000546,John,Hernandez,66,0.2,OWN,"$32,326.65",Technology,2022-04-19
+CUST-000547,Richard,Jackson,50,0.9,MORTGAGE,"$45,635.54",Public Sector,2022-06-16
+CUST-000548,Thomas,Rodriguez,35,2.9,MORTGAGE,"$72,657.76",Retail,2022-02-06
+CUST-000549,James,Taylor,69,1.2,OWN,"$56,879.91",Services,2022-04-29
+CUST-000550,Jennifer,Lopez,66,0.3,RENT,"$46,589.94",Healthcare,2022-03-27
+CUST-000551,Jennifer,Wilson,45,9.3,RENT,"$36,756.09",Manufacturing,2022-02-21
+CUST-000552,Barbara,Anderson,64,19.9,RENT,"$18,000.00",Public Sector,2022-04-01
+CUST-000553,Richard,Thomas,28,7.9,OWN,"$69,505.45",Manufacturing,2022-10-16
+CUST-000554,Richard,Martin,62,9.6,OWN,"$43,196.91",Education,2022-12-03
+CUST-000555,Joseph,Smith,50,1.4,RENT,"$104,471.35",Healthcare,2022-10-25
+CUST-000556,Jessica,Martinez,34,16.2,MORTGAGE,"$59,815.14",Healthcare,2022-07-23
+CUST-000557,David,Davis,23,1.1,MORTGAGE,"$37,400.42",Technology,2022-08-26
+CUST-000558,Robert,Moore,21,15.1,RENT,"$83,569.60",Technology,2022-06-04
+CUST-000559,Patricia,Smith,37,26.3,OTHER,"$87,165.57",Education,2022-08-28
+CUST-000560,John,Johnson,65,6.2,RENT,"$43,935.77",Public Sector,2022-05-16
+CUST-000561,Charles,Smith,64,19.9,RENT,"$89,038.35",Services,2022-12-28
+CUST-000562,Karen,Smith,44,4.2,MORTGAGE,"$37,136.14",Finance,2022-03-05
+CUST-000563,Sarah,Rodriguez,32,1.5,MORTGAGE,"$53,094.25",Retail,2022-05-03
+CUST-000564,Joseph,Gonzalez,23,2.9,RENT,"$65,231.92",Finance,2022-09-11
+CUST-000565,William,Smith,64,4.5,MORTGAGE,"$72,576.09",Finance,2022-04-24
+CUST-000566,Thomas,Gonzalez,31,0.4,MORTGAGE,"$66,887.07",Healthcare,2022-01-20
+CUST-000567,Susan,Martin,28,4.9,RENT,"$41,509.24",Retail,2022-01-16
+CUST-000568,Joseph,Miller,56,19.9,RENT,"$84,698.13",Healthcare,2022-05-25
+CUST-000569,James,Johnson,26,1.1,MORTGAGE,"$46,063.97",Services,2022-07-27
+CUST-000570,John,Garcia,43,7.9,RENT,"$36,882.27",Retail,2022-01-19
+CUST-000571,Jessica,Miller,33,11.9,OWN,"$37,154.16",Manufacturing,2022-06-15
+CUST-000572,David,Wilson,22,14.4,OWN,"$129,313.40",Healthcare,2022-02-07
+CUST-000573,Barbara,Moore,69,16.1,OTHER,"$33,826.79",Healthcare,2022-06-30
+CUST-000574,Elizabeth,Anderson,27,3.7,RENT,"$93,509.43",Healthcare,2022-12-15
+CUST-000575,Jessica,Johnson,67,18.9,OTHER,"$27,785.42",Public Sector,2022-04-15
+CUST-000576,Linda,Martinez,20,7.1,MORTGAGE,"$62,564.46",Education,2022-04-10
+CUST-000577,Jennifer,Lopez,30,0.9,RENT,"$56,871.05",Healthcare,2022-03-31
+CUST-000578,Barbara,Taylor,60,3.2,RENT,"$110,261.87",Services,2022-10-27
+CUST-000579,Linda,Davis,66,6.3,RENT,"$35,341.00",Technology,2022-11-28
+CUST-000580,Patricia,Hernandez,47,1.4,MORTGAGE,"$30,781.46",Technology,2022-03-20
+CUST-000581,Linda,Williams,62,5.1,MORTGAGE,"$46,246.67",Retail,2022-03-14
+CUST-000582,Sarah,Garcia,23,5.5,RENT,"$112,690.56",Manufacturing,2022-06-25
+CUST-000583,Robert,Rodriguez,34,0.9,MORTGAGE,"$31,505.61",Education,2022-04-06
+CUST-000584,William,Garcia,62,4.2,RENT,"$18,000.00",Public Sector,2022-12-11
+CUST-000585,Patricia,Rodriguez,68,7.4,MORTGAGE,"$50,507.84",Retail,2022-04-13
+CUST-000586,Thomas,Miller,70,3.5,RENT,"$78,807.34",Technology,2022-08-12
+CUST-000587,William,Rodriguez,36,0.1,OWN,"$29,528.08",Education,2022-01-06
+CUST-000588,James,Moore,59,0,OWN,"$74,904.26",Education,2022-05-02
+CUST-000589,Karen,Lopez,52,2.2,MORTGAGE,"$29,203.52",Manufacturing,2022-08-24
+CUST-000590,Richard,Davis,63,13,RENT,"$45,557.05",Services,2022-04-26
+CUST-000591,Jessica,Davis,43,1.3,RENT,"$71,420.57",Education,2022-06-12
+CUST-000592,Richard,Moore,68,5,OWN,"$27,072.33",Healthcare,2022-08-14
+CUST-000593,Susan,Martin,22,1.3,RENT,"$53,677.90",Education,2022-08-18
+CUST-000594,John,Anderson,46,1.9,RENT,"$89,992.96",Manufacturing,2022-07-01
+CUST-000595,Jennifer,Miller,54,9.4,RENT,"$62,128.93",Retail,2022-09-06
+CUST-000596,Sarah,Hernandez,37,6.5,MORTGAGE,"$34,189.95",Manufacturing,2022-11-14
+CUST-000597,Charles,Martin,66,0.5,MORTGAGE,"$104,752.86",Public Sector,2022-07-29
+CUST-000598,Robert,Thomas,38,2.8,OWN,"$68,131.59",Manufacturing,2022-05-24
+CUST-000599,Joseph,Brown,27,0.1,RENT,"$19,337.01",Technology,2022-12-11
+CUST-000600,Mary,Garcia,22,3.3,RENT,"$75,517.66",Healthcare,2022-04-06
+CUST-000601,Elizabeth,Williams,53,5.4,OWN,"$36,839.02",Services,2022-12-12
+CUST-000602,Sarah,Rodriguez,23,0.6,OWN,"$54,083.36",Technology,2022-09-01
+CUST-000603,Richard,Martinez,43,1.7,RENT,"$81,145.73",Retail,2022-03-27
+CUST-000604,Robert,Wilson,21,2.5,MORTGAGE,"$37,242.20",Finance,2022-07-03
+CUST-000605,James,Hernandez,56,12.6,RENT,"$21,530.02",Retail,2022-05-01
+CUST-000606,James,Moore,56,25,OWN,"$104,065.17",Healthcare,2022-11-28
+CUST-000607,Sarah,Lopez,67,0.2,RENT,"$87,753.91",Education,2022-04-02
+CUST-000608,Joseph,Lopez,52,7.2,OWN,"$46,928.10",Manufacturing,2022-03-11
+CUST-000609,Thomas,Gonzalez,18,2.3,MORTGAGE,"$75,110.13",Finance,2022-05-13
+CUST-000610,David,Gonzalez,41,2.5,MORTGAGE,"$40,753.89",Healthcare,2022-10-06
+CUST-000611,Thomas,Jackson,53,7,RENT,"$51,456.14",Technology,2022-05-17
+CUST-000612,Richard,Jackson,23,12.5,MORTGAGE,"$45,608.80",Manufacturing,2022-11-10
+CUST-000613,James,Wilson,58,15.1,MORTGAGE,"$41,586.38",Retail,2022-07-06
+CUST-000614,Mary,Brown,63,4.3,RENT,"$58,668.09",Technology,2022-08-09
+CUST-000615,William,Gonzalez,61,2.2,MORTGAGE,"$26,793.39",Healthcare,2022-02-15
+CUST-000616,John,Davis,48,7.7,OTHER,"$43,226.52",Healthcare,2022-10-05
+CUST-000617,James,Jackson,37,1.4,MORTGAGE,"$57,367.87",Retail,2022-07-11
+CUST-000618,Jessica,Lopez,41,4.2,MORTGAGE,"$122,890.67",Finance,2022-01-08
+CUST-000619,Jennifer,Moore,42,2.2,RENT,"$27,343.47",Retail,2022-10-03
+CUST-000620,Thomas,Garcia,53,5.3,MORTGAGE,"$63,594.14",Education,2022-06-28
+CUST-000621,Robert,Moore,38,1.4,RENT,"$67,176.21",Technology,2022-11-30
+CUST-000622,Robert,Jackson,47,1.1,MORTGAGE,"$19,180.33",Finance,2022-02-08
+CUST-000623,Jennifer,Jones,41,12.5,OWN,"$60,190.27",Manufacturing,2022-10-20
+CUST-000624,John,Rodriguez,61,0.5,MORTGAGE,"$76,125.80",Public Sector,2022-06-27
+CUST-000625,Robert,Williams,59,3.5,RENT,"$65,796.79",Education,2022-06-11
+CUST-000626,Robert,Martinez,47,1.2,RENT,"$47,006.27",Finance,2022-11-27
+CUST-000627,Elizabeth,Jackson,39,0.2,MORTGAGE,"$57,908.53",Public Sector,2022-04-14
+CUST-000628,Elizabeth,Williams,45,0.2,MORTGAGE,"$53,365.64",Public Sector,2022-06-10
+CUST-000629,Charles,Anderson,24,1,OWN,"$21,062.96",Technology,2022-10-14
+CUST-000630,Thomas,Smith,52,10.1,OWN,"$53,995.73",Healthcare,2022-05-03
+CUST-000631,Susan,Miller,45,1.7,MORTGAGE,"$40,801.12",Manufacturing,2022-02-23
+CUST-000632,William,Lopez,31,15,RENT,"$34,461.19",Retail,2022-02-03
+CUST-000633,Susan,Taylor,27,4.4,RENT,"$169,818.41",Technology,2022-08-30
+CUST-000634,James,Martin,33,2.9,RENT,"$91,702.77",Education,2022-04-23
+CUST-000635,Charles,Jones,33,4.3,RENT,"$27,581.87",Services,2022-11-14
+CUST-000636,Richard,Brown,48,3.6,MORTGAGE,"$58,297.71",Public Sector,2022-01-23
+CUST-000637,Richard,Lopez,59,7.1,MORTGAGE,"$101,621.73",Education,2022-02-15
+CUST-000638,Patricia,Martin,42,1.7,MORTGAGE,"$23,199.83",Public Sector,2022-11-08
+CUST-000639,James,Moore,30,2.2,RENT,"$50,944.47",Healthcare,2022-05-15
+CUST-000640,Thomas,Taylor,23,11.2,RENT,"$52,158.18",Services,2022-04-28
+CUST-000641,Linda,Jackson,61,14.6,RENT,"$25,919.57",Healthcare,2022-07-08
+CUST-000642,Mary,Rodriguez,26,11.2,RENT,"$59,265.06",Manufacturing,2022-05-11
+CUST-000643,Linda,Brown,62,2.7,OWN,"$85,658.45",Retail,2022-07-31
+CUST-000644,Michael,Johnson,53,7.6,RENT,"$104,195.46",Manufacturing,2022-04-23
+CUST-000645,Mary,Brown,60,3.2,MORTGAGE,"$43,274.46",Healthcare,2022-02-13
+CUST-000646,John,Johnson,37,3.4,RENT,"$171,240.20",Healthcare,2022-05-08
+CUST-000647,Sarah,Anderson,35,1.1,OWN,"$18,000.00",Education,2022-12-30
+CUST-000648,Barbara,Johnson,60,4.5,MORTGAGE,"$58,577.64",Healthcare,2022-06-07
+CUST-000649,James,Brown,38,1,RENT,"$24,193.83",Services,2022-09-30
+CUST-000650,Barbara,Garcia,21,2,MORTGAGE,"$51,281.81",Services,2022-11-11
+CUST-000651,Robert,Miller,67,9.7,MORTGAGE,"$37,761.55",Finance,2022-12-21
+CUST-000652,Thomas,Martinez,50,1.2,OTHER,"$63,160.77",Public Sector,2022-12-06
+CUST-000653,Jessica,Jackson,44,0.4,RENT,"$46,007.50",Technology,2022-02-14
+CUST-000654,Joseph,Jackson,24,0.4,OWN,"$32,435.47",Healthcare,2022-04-18
+CUST-000655,Joseph,Lopez,23,14.1,OWN,"$33,518.56",Manufacturing,2022-08-07
+CUST-000656,Robert,Williams,32,3.5,OWN,"$128,827.52",Retail,2022-11-14
+CUST-000657,Susan,Gonzalez,35,2.6,MORTGAGE,"$61,191.40",Public Sector,2022-11-11
+CUST-000658,Mary,Moore,49,8.3,MORTGAGE,"$20,929.93",Public Sector,2022-06-26
+CUST-000659,David,Davis,28,9,MORTGAGE,"$64,562.81",Retail,2022-08-16
+CUST-000660,Charles,Anderson,37,2,MORTGAGE,"$44,474.07",Retail,2022-07-10
+CUST-000661,Michael,Smith,41,5.9,MORTGAGE,"$49,133.71",Public Sector,2022-06-09
+CUST-000662,Jennifer,Williams,32,7.4,MORTGAGE,"$73,861.28",Finance,2022-09-24
+CUST-000663,Mary,Davis,65,5.3,MORTGAGE,"$88,575.77",Manufacturing,2022-12-24
+CUST-000664,Jennifer,Brown,24,0.8,MORTGAGE,"$31,907.41",Finance,2022-11-22
+CUST-000665,Sarah,Thomas,38,10.4,OWN,"$48,297.21",Healthcare,2022-07-09
+CUST-000666,Mary,Martinez,59,3.9,RENT,"$37,307.31",Technology,2022-06-24
+CUST-000667,Sarah,Lopez,43,1.7,OWN,"$66,067.43",Retail,2022-10-17
+CUST-000668,Joseph,Wilson,61,2.8,MORTGAGE,"$43,645.16",Services,2022-12-23
+CUST-000669,Charles,Wilson,31,0.2,OWN,"$49,743.04",Manufacturing,2022-05-25
+CUST-000670,Mary,Johnson,54,0.7,MORTGAGE,"$42,824.33",Retail,2022-08-20
+CUST-000671,Karen,Jones,38,7.3,RENT,"$46,487.57",Finance,2022-12-26
+CUST-000672,Jennifer,Jones,35,0,OWN,"$114,958.39",Education,2022-07-23
+CUST-000673,James,Garcia,22,2.7,RENT,"$162,005.10",Healthcare,2022-08-01
+CUST-000674,Joseph,Gonzalez,20,3.7,OWN,"$59,192.26",Technology,2022-02-09
+CUST-000675,Elizabeth,Rodriguez,40,0.3,MORTGAGE,"$46,630.73",Healthcare,2022-10-02
+CUST-000676,Charles,Anderson,43,18.1,MORTGAGE,"$22,074.57",Education,2022-11-19
+CUST-000677,Thomas,Wilson,54,1.3,RENT,"$33,516.43",Technology,2022-03-23
+CUST-000678,Robert,Miller,41,1.8,MORTGAGE,"$46,010.83",Education,2022-06-30
+CUST-000679,Patricia,Martin,66,1.8,RENT,"$34,285.18",Healthcare,2022-11-16
+CUST-000680,Elizabeth,Johnson,36,1.3,RENT,"$36,136.17",Finance,2022-03-24
+CUST-000681,Thomas,Miller,68,0,RENT,"$107,763.55",Public Sector,2022-10-30
+CUST-000682,Elizabeth,Garcia,42,6.5,RENT,"$49,731.58",Healthcare,2022-09-19
+CUST-000683,Thomas,Taylor,38,17,OTHER,"$52,005.56",Healthcare,2022-09-29
+CUST-000684,Karen,Johnson,29,1.3,OTHER,"$34,993.05",Healthcare,2022-07-19
+CUST-000685,Robert,Williams,58,5.4,RENT,"$88,324.46",Manufacturing,2022-08-28
+CUST-000686,Mary,Jones,50,6.8,MORTGAGE,"$44,077.76",Education,2022-06-29
+CUST-000687,Jennifer,Jones,67,9.4,RENT,"$37,781.25",Services,2022-06-20
+CUST-000688,Mary,Smith,70,2.7,MORTGAGE,"$22,239.48",Education,2022-10-22
+CUST-000689,Richard,Davis,21,1.8,OWN,"$47,545.81",Retail,2022-06-26
+CUST-000690,David,Lopez,59,2,OWN,"$37,196.54",Education,2022-08-25
+CUST-000691,David,Brown,24,6.2,MORTGAGE,"$113,810.48",Retail,2022-05-18
+CUST-000692,Jessica,Gonzalez,39,8.5,MORTGAGE,"$123,247.44",Manufacturing,2022-11-23
+CUST-000693,David,Anderson,50,1,RENT,"$26,432.77",Finance,2022-11-07
+CUST-000694,Charles,Hernandez,34,2.3,OTHER,"$27,971.00",Retail,2022-05-09
+CUST-000695,Joseph,Martinez,41,11.6,RENT,"$42,695.13",Healthcare,2022-02-18
+CUST-000696,Jessica,Williams,51,8.2,MORTGAGE,"$32,597.18",Finance,2022-06-13
+CUST-000697,David,Wilson,45,21,MORTGAGE,"$54,650.21",Public Sector,2022-10-04
+CUST-000698,Jessica,Thomas,60,7,MORTGAGE,"$41,634.66",Manufacturing,2022-10-20
+CUST-000699,Linda,Martinez,58,2.5,RENT,"$56,402.35",Education,2022-04-26
+CUST-000700,Patricia,Martinez,56,4.5,OWN,"$81,474.61",Retail,2022-01-24
+CUST-000701,Linda,Lopez,39,5.4,RENT,"$28,793.05",Services,2022-11-07
+CUST-000702,Patricia,Rodriguez,66,0.4,MORTGAGE,"$80,628.35",Healthcare,2022-01-25
+CUST-000703,John,Smith,34,3.9,RENT,"$34,053.01",Technology,2022-05-07
+CUST-000704,John,Jones,51,6.2,RENT,"$143,521.69",Public Sector,2022-08-22
+CUST-000705,Sarah,Martin,23,0.9,MORTGAGE,"$110,248.04",Technology,2022-07-28
+CUST-000706,Charles,Davis,63,7.6,MORTGAGE,"$46,326.06",Finance,2022-04-03
+CUST-000707,Charles,Hernandez,23,4.4,RENT,"$30,278.96",Education,2022-04-04
+CUST-000708,Robert,Lopez,51,15.2,RENT,"$27,517.21",Services,2022-11-23
+CUST-000709,Sarah,Smith,18,0.2,MORTGAGE,"$75,872.85",Technology,2022-08-13
+CUST-000710,Elizabeth,Martin,27,1.5,MORTGAGE,"$48,281.25",Finance,2022-10-07
+CUST-000711,Jennifer,Hernandez,38,4.6,OWN,"$77,919.65",Manufacturing,2022-01-11
+CUST-000712,James,Jones,22,1.8,RENT,"$147,578.35",Finance,2022-11-25
+CUST-000713,Robert,Anderson,19,6.3,RENT,"$33,349.85",Public Sector,2022-01-12
+CUST-000714,William,Jones,39,7.1,RENT,"$26,500.82",Services,2022-02-04
+CUST-000715,Barbara,Lopez,65,0.5,RENT,"$53,975.21",Services,2022-08-16
+CUST-000716,Susan,Jones,19,3.6,MORTGAGE,"$86,888.40",Finance,2022-08-08
+CUST-000717,Mary,Taylor,27,3.6,MORTGAGE,"$30,631.06",Public Sector,2022-05-21
+CUST-000718,Thomas,Taylor,51,2.3,RENT,"$49,876.86",Finance,2022-01-23
+CUST-000719,Susan,Lopez,33,13.5,RENT,"$97,248.21",Services,2022-03-24
+CUST-000720,Richard,Anderson,65,8.8,RENT,"$21,667.33",Services,2022-08-17
+CUST-000721,William,Anderson,68,6,OWN,"$55,141.56",Healthcare,2022-12-10
+CUST-000722,Joseph,Garcia,56,6.3,OTHER,"$37,419.55",Finance,2022-03-21
+CUST-000723,Joseph,Lopez,39,3.1,RENT,"$52,160.37",Retail,2022-12-19
+CUST-000724,David,Martin,29,12.7,RENT,"$69,904.98",Finance,2022-10-17
+CUST-000725,Jessica,Moore,41,5.9,OWN,"$54,742.97",Services,2022-11-27
+CUST-000726,Thomas,Wilson,64,6.5,OWN,"$29,581.04",Healthcare,2022-06-08
+CUST-000727,Patricia,Johnson,57,9.9,MORTGAGE,"$38,153.66",Healthcare,2022-05-08
+CUST-000728,James,Rodriguez,55,1.6,RENT,"$100,037.11",Manufacturing,2022-07-09
+CUST-000729,Linda,Jones,27,8.2,RENT,"$57,783.96",Public Sector,2022-01-31
+CUST-000730,Thomas,Martin,52,1.1,MORTGAGE,"$74,619.68",Education,2022-12-25
+CUST-000731,John,Smith,68,2.1,RENT,"$55,556.05",Technology,2022-01-15
+CUST-000732,Karen,Williams,66,2,RENT,"$73,464.53",Technology,2022-11-09
+CUST-000733,Joseph,Garcia,49,19.2,MORTGAGE,"$40,212.25",Finance,2022-03-16
+CUST-000734,Joseph,Jones,24,9.7,RENT,"$33,397.76",Manufacturing,2022-02-03
+CUST-000735,Susan,Jones,38,6,MORTGAGE,"$71,815.02",Finance,2022-12-25
+CUST-000736,Susan,Smith,37,6.5,RENT,"$86,136.37",Technology,2022-07-15
+CUST-000737,Mary,Taylor,43,4.1,RENT,"$31,034.64",Public Sector,2022-11-27
+CUST-000738,Richard,Jackson,21,14.7,MORTGAGE,"$36,754.93",Services,2022-01-29
+CUST-000739,Susan,Wilson,63,3.4,RENT,"$45,178.96",Public Sector,2022-07-13
+CUST-000740,Charles,Lopez,69,2.4,OTHER,"$110,184.59",Public Sector,2022-01-16
+CUST-000741,Michael,Martinez,39,0.9,MORTGAGE,"$64,962.65",Healthcare,2022-03-18
+CUST-000742,John,Martin,32,7.7,RENT,"$25,284.75",Services,2022-10-20
+CUST-000743,Joseph,Moore,57,6.6,MORTGAGE,"$46,793.92",Education,2022-03-22
+CUST-000744,Susan,Hernandez,38,2.4,RENT,"$43,349.94",Services,2022-05-04
+CUST-000745,David,Johnson,32,0.1,OWN,"$27,265.17",Manufacturing,2022-01-19
+CUST-000746,Joseph,Moore,39,9.1,RENT,"$46,518.44",Healthcare,2022-04-12
+CUST-000747,Richard,Miller,69,0.1,MORTGAGE,"$42,403.29",Education,2022-03-18
+CUST-000748,Sarah,Anderson,45,6.1,RENT,"$40,912.21",Manufacturing,2022-08-17
+CUST-000749,Jennifer,Hernandez,31,17.6,MORTGAGE,"$39,986.99",Manufacturing,2022-10-24
+CUST-000750,John,Moore,44,2.9,OWN,"$102,303.26",Technology,2022-07-22
+CUST-000751,Charles,Lopez,58,1.3,OWN,"$40,869.87",Healthcare,2022-03-02
+CUST-000752,Joseph,Garcia,57,6.1,RENT,"$50,253.50",Manufacturing,2022-01-26
+CUST-000753,Robert,Martin,45,8.5,RENT,"$47,601.41",Retail,2022-03-12
+CUST-000754,Elizabeth,Gonzalez,43,4,OWN,"$38,081.79",Public Sector,2022-04-13
+CUST-000755,Michael,Martin,66,17.1,OWN,"$51,008.74",Manufacturing,2022-11-22
+CUST-000756,Thomas,Thomas,19,0.3,RENT,"$50,649.03",Education,2022-12-29
+CUST-000757,Michael,Moore,42,3.5,MORTGAGE,"$51,015.17",Technology,2022-06-06
+CUST-000758,Barbara,Martinez,20,6.3,RENT,"$31,900.71",Finance,2022-12-29
+CUST-000759,Thomas,Davis,25,9.9,OWN,"$44,220.23",Public Sector,2022-12-25
+CUST-000760,Richard,Moore,61,1,RENT,"$71,693.90",Technology,2022-07-13
+CUST-000761,Karen,Smith,50,8,RENT,"$44,805.75",Finance,2022-10-02
+CUST-000762,Patricia,Davis,59,4,MORTGAGE,"$53,150.93",Healthcare,2022-11-20
+CUST-000763,Elizabeth,Garcia,69,2.5,RENT,"$53,290.77",Healthcare,2022-07-05
+CUST-000764,John,Jones,52,0.7,MORTGAGE,"$60,397.17",Manufacturing,2022-11-22
+CUST-000765,William,Anderson,23,10,MORTGAGE,"$64,817.15",Retail,2022-04-23
+CUST-000766,Richard,Anderson,56,0.9,RENT,"$44,932.86",Healthcare,2022-11-09
+CUST-000767,Sarah,Johnson,69,1.9,RENT,"$31,080.39",Services,2022-06-14
+CUST-000768,Joseph,Smith,40,1.7,MORTGAGE,"$26,652.61",Manufacturing,2022-03-02
+CUST-000769,Patricia,Hernandez,42,10.3,RENT,"$81,539.53",Public Sector,2022-04-02
+CUST-000770,Joseph,Martinez,67,5.6,MORTGAGE,"$72,050.69",Technology,2022-10-13
+CUST-000771,Mary,Moore,60,8,OWN,"$67,824.74",Healthcare,2022-06-02
+CUST-000772,Joseph,Moore,36,1.4,MORTGAGE,"$73,541.25",Services,2022-08-13
+CUST-000773,Linda,Taylor,22,4.9,RENT,"$45,216.71",Technology,2022-05-07
+CUST-000774,Linda,Davis,68,4.2,RENT,"$35,866.60",Technology,2022-07-12
+CUST-000775,Thomas,Anderson,28,8.9,RENT,"$30,025.32",Retail,2022-04-25
+CUST-000776,Barbara,Davis,29,11.8,RENT,"$28,433.55",Healthcare,2022-09-19
+CUST-000777,Charles,Taylor,27,0.1,MORTGAGE,"$89,866.39",Technology,2022-01-18
+CUST-000778,Elizabeth,Lopez,25,5.6,MORTGAGE,"$38,308.52",Retail,2022-01-10
+CUST-000779,William,Davis,41,0.3,RENT,"$83,069.22",Retail,2022-04-02
+CUST-000780,Robert,Wilson,45,4,RENT,"$44,647.66",Healthcare,2022-05-19
+CUST-000781,Jennifer,Brown,58,1.7,RENT,"$34,957.19",Retail,2022-11-29
+CUST-000782,Karen,Smith,53,1.8,MORTGAGE,"$28,362.34",Healthcare,2022-12-23
+CUST-000783,Mary,Smith,54,2.2,RENT,"$36,531.23",Services,2022-12-06
+CUST-000784,Richard,Jackson,38,4.9,MORTGAGE,"$99,620.12",Healthcare,2022-02-21
+CUST-000785,Jennifer,Thomas,25,2,RENT,"$28,506.72",Finance,2022-07-14
+CUST-000786,Robert,Wilson,26,6.6,OWN,"$141,262.26",Technology,2022-07-25
+CUST-000787,James,Thomas,64,2.6,OWN,"$32,199.18",Services,2022-10-14
+CUST-000788,Jennifer,Jones,32,0.4,RENT,"$71,323.06",Education,2022-04-03
+CUST-000789,Jennifer,Rodriguez,65,7.7,RENT,"$45,586.84",Healthcare,2022-11-05
+CUST-000790,Jessica,Johnson,63,1.7,MORTGAGE,"$41,761.09",Technology,2022-05-25
+CUST-000791,Patricia,Moore,57,2.8,RENT,"$25,959.41",Public Sector,2022-03-27
+CUST-000792,David,Garcia,35,5.8,MORTGAGE,"$46,667.51",Retail,2022-06-02
+CUST-000793,William,Rodriguez,59,2,OWN,"$27,470.20",Manufacturing,2022-01-02
+CUST-000794,John,Smith,37,0.3,MORTGAGE,"$21,146.11",Healthcare,2022-12-08
+CUST-000795,Charles,Rodriguez,23,2.3,OWN,"$52,041.63",Retail,2022-09-17
+CUST-000796,Linda,Thomas,29,14.5,RENT,"$35,677.96",Retail,2022-06-13
+CUST-000797,Robert,Gonzalez,19,5.1,RENT,"$113,797.32",Retail,2022-01-06
+CUST-000798,Patricia,Rodriguez,24,5.6,MORTGAGE,"$80,822.52",Retail,2022-05-29
+CUST-000799,Jennifer,Gonzalez,33,5,RENT,"$114,544.20",Retail,2022-07-24
+CUST-000800,Mary,Rodriguez,20,1.1,MORTGAGE,"$34,876.15",Healthcare,2022-04-28
+CUST-000801,Karen,Hernandez,62,2.7,RENT,"$52,473.78",Public Sector,2022-03-30
+CUST-000802,David,Brown,20,7,RENT,"$18,000.00",Education,2022-06-03
+CUST-000803,Patricia,Johnson,44,0.5,OTHER,"$42,578.25",Finance,2022-06-16
+CUST-000804,Joseph,Garcia,67,1.6,RENT,"$51,495.47",Retail,2022-06-10
+CUST-000805,Jennifer,Wilson,60,1.6,OTHER,"$52,945.80",Retail,2022-09-27
+CUST-000806,Thomas,Brown,57,2.8,OTHER,"$47,993.26",Finance,2022-02-25
+CUST-000807,Jennifer,Garcia,55,19.7,MORTGAGE,"$50,680.49",Public Sector,2022-08-16
+CUST-000808,Charles,Jackson,50,0.3,MORTGAGE,"$18,000.00",Services,2022-12-03
+CUST-000809,Mary,Garcia,45,3.7,MORTGAGE,"$55,720.92",Public Sector,2022-05-29
+CUST-000810,Joseph,Johnson,18,1,OWN,"$62,424.93",Services,2022-02-15
+CUST-000811,David,Moore,25,17.6,RENT,"$95,703.74",Healthcare,2022-05-24
+CUST-000812,Linda,Gonzalez,54,0.6,MORTGAGE,"$58,945.53",Technology,2022-08-26
+CUST-000813,Charles,Rodriguez,49,2.6,MORTGAGE,"$45,918.87",Manufacturing,2022-09-29
+CUST-000814,Richard,Jackson,65,6.7,MORTGAGE,"$85,175.66",Manufacturing,2022-04-30
+CUST-000815,Barbara,Gonzalez,60,6.1,MORTGAGE,"$18,000.00",Technology,2022-12-06
+CUST-000816,Robert,Hernandez,54,2.7,RENT,"$37,893.15",Healthcare,2022-08-08
+CUST-000817,Jennifer,Smith,21,2.1,MORTGAGE,"$33,426.19",Manufacturing,2022-01-08
+CUST-000818,Patricia,Miller,47,2.5,OWN,"$48,181.92",Public Sector,2022-12-10
+CUST-000819,Charles,Anderson,23,1.5,RENT,"$18,000.00",Finance,2022-10-02
+CUST-000820,Karen,Smith,63,1.1,OWN,"$94,827.79",Technology,2022-12-19
+CUST-000821,James,Lopez,36,3.3,MORTGAGE,"$43,264.82",Public Sector,2022-03-07
+CUST-000822,Karen,Miller,49,1.6,OWN,"$57,491.84",Education,2022-03-20
+CUST-000823,Thomas,Anderson,26,1.7,MORTGAGE,"$54,805.49",Healthcare,2022-03-27
+CUST-000824,Barbara,Jackson,29,5.3,MORTGAGE,"$92,156.63",Technology,2022-05-04
+CUST-000825,Joseph,Smith,28,17.3,RENT,"$19,322.49",Manufacturing,2022-07-21
+CUST-000826,James,Taylor,63,4.6,OWN,"$51,852.61",Healthcare,2022-05-30
+CUST-000827,Susan,Taylor,33,0.4,RENT,"$86,950.05",Finance,2022-02-15
+CUST-000828,Jennifer,Williams,18,0.4,OWN,"$46,677.00",Healthcare,2022-04-23
+CUST-000829,Robert,Lopez,62,15.1,OTHER,"$30,465.96",Healthcare,2022-04-01
+CUST-000830,David,Garcia,70,1.8,RENT,"$36,244.94",Finance,2022-05-21
+CUST-000831,Patricia,Hernandez,38,0.5,RENT,"$40,276.72",Retail,2022-10-16
+CUST-000832,Richard,Williams,47,4.6,MORTGAGE,"$34,182.70",Finance,2022-08-06
+CUST-000833,David,Davis,30,4.9,RENT,"$45,414.85",Public Sector,2022-03-18
+CUST-000834,John,Wilson,51,5.2,OWN,"$104,205.87",Healthcare,2022-11-30
+CUST-000835,James,Wilson,21,1.6,RENT,"$36,363.38",Services,2022-06-01
+CUST-000836,Jennifer,Martinez,45,0.1,RENT,"$38,413.45",Finance,2022-11-19
+CUST-000837,Sarah,Johnson,55,16.8,OTHER,"$61,690.81",Retail,2022-08-27
+CUST-000838,Elizabeth,Wilson,48,1.4,MORTGAGE,"$44,917.82",Public Sector,2022-04-25
+CUST-000839,Robert,Rodriguez,44,5.6,OWN,"$25,220.37",Services,2022-11-15
+CUST-000840,Elizabeth,Williams,22,6.1,RENT,"$47,543.76",Services,2022-04-04
+CUST-000841,Barbara,Davis,42,4.7,MORTGAGE,"$46,655.88",Technology,2022-02-17
+CUST-000842,Mary,Thomas,20,1.9,MORTGAGE,"$79,844.73",Finance,2022-07-10
+CUST-000843,Richard,Johnson,50,1.6,MORTGAGE,"$30,149.51",Finance,2022-01-12
+CUST-000844,Linda,Garcia,21,4.6,MORTGAGE,"$80,110.30",Healthcare,2022-06-05
+CUST-000845,Mary,Lopez,42,10.1,MORTGAGE,"$46,680.63",Public Sector,2022-06-21
+CUST-000846,Karen,Jones,37,14.7,MORTGAGE,"$28,170.46",Technology,2022-10-23
+CUST-000847,James,Johnson,51,0.6,RENT,"$25,479.03",Education,2022-06-26
+CUST-000848,Robert,Thomas,43,0.8,MORTGAGE,"$128,951.84",Education,2022-12-07
+CUST-000849,William,Jones,22,14.5,RENT,"$45,253.80",Manufacturing,2022-02-26
+CUST-000850,Thomas,Anderson,52,6.7,MORTGAGE,"$78,296.02",Finance,2022-12-09
+CUST-000851,William,Lopez,45,10.7,RENT,"$20,867.34",Finance,2022-12-06
+CUST-000852,David,Brown,46,1.1,MORTGAGE,"$183,294.14",Technology,2022-07-22
+CUST-000853,Joseph,Anderson,26,4.4,MORTGAGE,"$76,620.68",Retail,2022-07-04
+CUST-000854,Jennifer,Hernandez,69,6,RENT,"$43,143.19",Education,2022-05-01
+CUST-000855,John,Thomas,55,5.7,RENT,"$42,062.72",Manufacturing,2022-08-14
+CUST-000856,Thomas,Garcia,67,2.6,RENT,"$70,777.69",Technology,2022-07-21
+CUST-000857,Robert,Wilson,23,0.1,MORTGAGE,"$68,774.67",Finance,2022-11-26
+CUST-000858,Barbara,Moore,36,4.4,OWN,"$53,705.17",Education,2022-12-29
+CUST-000859,Sarah,Lopez,61,1.5,RENT,"$49,288.17",Public Sector,2022-12-22
+CUST-000860,Susan,Hernandez,28,3,MORTGAGE,"$64,895.50",Manufacturing,2022-08-04
+CUST-000861,David,Gonzalez,19,15.8,RENT,"$20,519.85",Healthcare,2022-02-12
+CUST-000862,William,Hernandez,64,2.5,MORTGAGE,"$40,715.44",Education,2022-01-23
+CUST-000863,Mary,Thomas,61,9.2,OWN,"$21,516.34",Manufacturing,2022-06-04
+CUST-000864,Barbara,Anderson,61,1,RENT,"$66,323.28",Technology,2022-07-05
+CUST-000865,John,Anderson,26,5.6,MORTGAGE,"$34,964.66",Healthcare,2022-09-06
+CUST-000866,John,Brown,38,18.9,RENT,"$22,341.72",Manufacturing,2022-08-25
+CUST-000867,James,Hernandez,41,0.5,RENT,"$32,961.87",Manufacturing,2022-10-20
+CUST-000868,Linda,Jackson,51,0,RENT,"$52,821.74",Services,2022-05-14
+CUST-000869,Linda,Anderson,39,2.8,RENT,"$44,240.05",Services,2022-11-17
+CUST-000870,David,Brown,20,0.5,MORTGAGE,"$27,266.71",Services,2022-01-22
+CUST-000871,William,Gonzalez,29,6.9,MORTGAGE,"$20,901.28",Finance,2022-12-27
+CUST-000872,Robert,Jackson,45,12.3,MORTGAGE,"$50,866.83",Retail,2022-03-29
+CUST-000873,Susan,Johnson,47,2.8,RENT,"$36,666.39",Education,2022-06-02
+CUST-000874,John,Wilson,43,1.5,RENT,"$43,086.27",Finance,2022-05-05
+CUST-000875,Robert,Brown,65,2.8,MORTGAGE,"$45,259.03",Public Sector,2022-03-20
+CUST-000876,Robert,Thomas,38,6.4,OTHER,"$60,781.02",Healthcare,2022-12-12
+CUST-000877,Charles,Martin,45,0,RENT,"$74,867.36",Retail,2022-02-20
+CUST-000878,Susan,Wilson,43,4.5,OWN,"$52,746.60",Manufacturing,2022-08-04
+CUST-000879,Patricia,Anderson,50,4.8,MORTGAGE,"$41,763.11",Finance,2022-06-25
+CUST-000880,Richard,Williams,38,5.1,MORTGAGE,"$49,631.54",Services,2022-12-24
+CUST-000881,Elizabeth,Davis,52,1.4,MORTGAGE,"$41,372.91",Retail,2022-09-10
+CUST-000882,Sarah,Thomas,69,6.3,RENT,"$21,562.77",Public Sector,2022-09-03
+CUST-000883,Linda,Martinez,51,0.5,RENT,"$84,623.99",Education,2022-08-15
+CUST-000884,Linda,Brown,58,1.1,MORTGAGE,"$77,012.22",Public Sector,2022-04-16
+CUST-000885,Michael,Moore,68,10.5,RENT,"$132,477.35",Healthcare,2022-07-12
+CUST-000886,Linda,Johnson,64,6.7,OWN,"$153,314.96",Technology,2022-11-12
+CUST-000887,Susan,Taylor,35,0.1,MORTGAGE,"$27,227.70",Finance,2022-10-29
+CUST-000888,Charles,Gonzalez,28,1.4,RENT,"$41,452.36",Services,2022-02-05
+CUST-000889,Jennifer,Brown,40,1.2,MORTGAGE,"$172,089.47",Healthcare,2022-07-23
+CUST-000890,James,Hernandez,65,1.6,RENT,"$48,036.90",Technology,2022-09-24
+CUST-000891,Joseph,Miller,39,1.4,MORTGAGE,"$55,387.29",Services,2022-09-25
+CUST-000892,James,Lopez,34,0.3,MORTGAGE,"$22,912.43",Services,2022-06-19
+CUST-000893,Thomas,Martinez,22,3.1,OWN,"$52,846.37",Services,2022-02-08
+CUST-000894,James,Miller,61,6.6,MORTGAGE,"$128,794.09",Finance,2022-05-19
+CUST-000895,Joseph,Gonzalez,28,4.7,MORTGAGE,"$93,275.51",Healthcare,2022-10-19
+CUST-000896,Mary,Miller,47,5.6,MORTGAGE,"$36,134.66",Services,2022-02-21
+CUST-000897,Susan,Taylor,32,0.4,OWN,"$40,208.83",Public Sector,2022-10-14
+CUST-000898,Linda,Martinez,44,15.1,RENT,"$27,848.93",Healthcare,2022-10-16
+CUST-000899,Linda,Martinez,52,9.1,RENT,"$32,029.69",Retail,2022-05-21
+CUST-000900,Charles,Brown,50,8.2,RENT,"$18,861.80",Public Sector,2022-05-26
+CUST-000901,Michael,Martin,37,8.7,RENT,"$46,985.30",Finance,2022-11-10
+CUST-000902,Charles,Brown,33,13.5,MORTGAGE,"$104,302.99",Services,2022-07-03
+CUST-000903,Jennifer,Miller,51,3.9,MORTGAGE,"$58,554.66",Healthcare,2022-06-01
+CUST-000904,Jennifer,Smith,19,1.1,MORTGAGE,"$97,063.38",Manufacturing,2022-07-20
+CUST-000905,John,Lopez,52,4.8,RENT,"$83,836.58",Finance,2022-05-08
+CUST-000906,Michael,Gonzalez,57,6.8,MORTGAGE,"$37,294.31",Healthcare,2022-10-14
+CUST-000907,Charles,Martinez,45,6.7,RENT,"$33,531.70",Retail,2022-11-07
+CUST-000908,Linda,Anderson,64,3.7,MORTGAGE,"$34,180.40",Services,2022-09-10
+CUST-000909,Elizabeth,Gonzalez,56,0.4,MORTGAGE,"$20,774.24",Technology,2022-09-23
+CUST-000910,Karen,Rodriguez,23,2.3,RENT,"$49,819.67",Services,2022-07-07
+CUST-000911,Joseph,Rodriguez,26,12.7,RENT,"$18,000.00",Technology,2022-08-18
+CUST-000912,Joseph,Anderson,37,4.4,RENT,"$65,887.75",Manufacturing,2022-09-28
+CUST-000913,James,Martinez,18,3.9,OWN,"$50,814.67",Finance,2022-09-16
+CUST-000914,Karen,Martinez,25,1.6,OWN,"$62,051.50",Retail,2022-10-26
+CUST-000915,Michael,Davis,40,2.3,MORTGAGE,"$83,158.87",Healthcare,2022-07-17
+CUST-000916,Patricia,Thomas,20,11.3,RENT,"$54,143.72",Healthcare,2022-11-19
+CUST-000917,Jennifer,Taylor,21,5.5,MORTGAGE,"$110,833.67",Technology,2022-02-25
+CUST-000918,James,Jones,42,7.7,MORTGAGE,"$66,901.25",Retail,2022-11-15
+CUST-000919,Robert,Brown,64,3,MORTGAGE,"$33,571.63",Public Sector,2022-07-22
+CUST-000920,James,Moore,55,5,RENT,"$43,527.34",Manufacturing,2022-09-28
+CUST-000921,Patricia,Jackson,32,1.4,RENT,"$18,000.00",Technology,2022-04-19
+CUST-000922,Mary,Brown,38,6.1,MORTGAGE,"$31,222.83",Technology,2022-04-26
+CUST-000923,Elizabeth,Miller,52,2.8,RENT,"$40,518.01",Manufacturing,2022-04-02
+CUST-000924,Robert,Martinez,70,2.9,RENT,"$64,417.25",Finance,2022-05-18
+CUST-000925,Elizabeth,Moore,70,5.2,RENT,"$33,685.39",Healthcare,2022-10-30
+CUST-000926,James,Jackson,63,13.8,MORTGAGE,"$26,288.00",Finance,2022-02-26
+CUST-000927,Jennifer,Brown,69,0.3,OWN,"$19,076.91",Retail,2022-02-19
+CUST-000928,Richard,Martinez,31,8.7,OTHER,"$36,380.61",Public Sector,2022-03-12
+CUST-000929,Joseph,Smith,53,1.7,MORTGAGE,"$130,017.70",Services,2022-03-23
+CUST-000930,Patricia,Moore,29,2.9,MORTGAGE,"$56,137.17",Education,2022-04-15
+CUST-000931,Richard,Jones,34,0.1,RENT,"$78,416.50",Education,2022-03-29
+CUST-000932,Karen,Anderson,56,1.8,MORTGAGE,"$31,256.20",Education,2022-01-02
+CUST-000933,Joseph,Taylor,26,3.5,RENT,"$22,320.82",Manufacturing,2022-12-26
+CUST-000934,Linda,Williams,52,0.3,MORTGAGE,"$26,621.15",Technology,2022-03-25
+CUST-000935,Robert,Lopez,30,3.4,RENT,"$46,696.96",Public Sector,2022-02-12
+CUST-000936,Joseph,Johnson,32,13.1,RENT,"$18,086.76",Finance,2022-06-03
+CUST-000937,Patricia,Smith,35,0.6,RENT,"$29,634.80",Services,2022-11-23
+CUST-000938,Barbara,Taylor,68,7.2,RENT,"$36,564.01",Healthcare,2022-04-04
+CUST-000939,Richard,Thomas,50,2.6,RENT,"$25,324.75",Education,2022-10-25
+CUST-000940,Mary,Jones,23,5.3,RENT,"$18,000.00",Finance,2022-05-13
+CUST-000941,Charles,Anderson,44,1.5,OTHER,"$56,660.17",Education,2022-03-06
+CUST-000942,Charles,Williams,40,0.9,MORTGAGE,"$50,158.12",Public Sector,2022-10-17
+CUST-000943,Patricia,Miller,44,0.9,MORTGAGE,"$72,367.67",Education,2022-09-14
+CUST-000944,Patricia,Hernandez,51,0.4,OWN,"$28,135.49",Healthcare,2022-08-01
+CUST-000945,David,Martinez,63,1,OTHER,"$71,679.59",Services,2022-05-28
+CUST-000946,Robert,Rodriguez,55,5.5,MORTGAGE,"$105,308.78",Retail,2022-03-02
+CUST-000947,Karen,Wilson,31,10.7,OWN,"$55,888.13",Retail,2022-05-29
+CUST-000948,David,Gonzalez,53,8.4,RENT,"$36,135.53",Public Sector,2022-03-29
+CUST-000949,Elizabeth,Johnson,70,5.8,RENT,"$52,708.94",Retail,2022-11-20
+CUST-000950,Linda,Williams,25,0.6,MORTGAGE,"$35,281.23",Manufacturing,2022-10-05
+CUST-000951,Jennifer,Miller,52,1.7,MORTGAGE,"$32,463.06",Technology,2022-03-23
+CUST-000952,Jennifer,Moore,36,1.9,MORTGAGE,"$68,984.02",Manufacturing,2022-05-09
+CUST-000953,Linda,Williams,47,1.4,RENT,"$45,728.40",Finance,2022-10-13
+CUST-000954,Joseph,Martinez,31,3.6,RENT,"$89,549.59",Manufacturing,2022-12-19
+CUST-000955,Susan,Miller,37,3.8,MORTGAGE,"$39,292.48",Finance,2022-10-07
+CUST-000956,David,Rodriguez,66,2.2,RENT,"$41,332.84",Finance,2022-09-27
+CUST-000957,Barbara,Taylor,42,2.2,MORTGAGE,"$36,928.71",Technology,2022-10-19
+CUST-000958,Richard,Hernandez,57,8.8,MORTGAGE,"$27,998.56",Healthcare,2022-07-22
+CUST-000959,Linda,Miller,41,7.8,MORTGAGE,"$73,659.80",Services,2022-01-24
+CUST-000960,Sarah,Wilson,31,1.8,MORTGAGE,"$146,218.28",Public Sector,2022-12-17
+CUST-000961,James,Jackson,43,12.3,OWN,"$40,493.08",Technology,2022-11-07
+CUST-000962,Joseph,Brown,55,15.3,MORTGAGE,"$34,882.90",Public Sector,2022-07-27
+CUST-000963,Linda,Garcia,40,2,MORTGAGE,"$33,770.34",Retail,2022-10-07
+CUST-000964,David,Martinez,39,2.2,MORTGAGE,"$34,896.21",Retail,2022-07-24
+CUST-000965,Barbara,Miller,65,3.5,RENT,"$111,847.53",Manufacturing,2022-06-01
+CUST-000966,Barbara,Gonzalez,36,14.2,RENT,"$34,226.65",Finance,2022-01-26
+CUST-000967,Patricia,Wilson,63,10.5,RENT,"$36,584.01",Education,2022-07-13
+CUST-000968,Jessica,Brown,68,0.5,MORTGAGE,"$26,365.80",Education,2022-12-02
+CUST-000969,Patricia,Davis,20,2.5,MORTGAGE,"$56,773.47",Public Sector,2022-08-26
+CUST-000970,Robert,Jones,59,4,OWN,"$47,400.37",Finance,2022-11-17
+CUST-000971,Robert,Smith,36,3.5,RENT,"$27,761.64",Public Sector,2022-03-16
+CUST-000972,Linda,Brown,26,1.1,RENT,"$31,369.31",Technology,2022-06-12
+CUST-000973,Elizabeth,Williams,45,9.8,OTHER,"$105,500.05",Healthcare,2022-10-26
+CUST-000974,Thomas,Rodriguez,37,5.6,RENT,"$49,829.07",Services,2022-01-29
+CUST-000975,William,Davis,62,9.1,MORTGAGE,"$51,577.60",Technology,2022-06-14
+CUST-000976,Charles,Smith,24,9.8,MORTGAGE,"$51,680.04",Finance,2022-12-03
+CUST-000977,Susan,Garcia,31,6.9,MORTGAGE,"$98,450.85",Finance,2022-07-05
+CUST-000978,Linda,Rodriguez,26,2.9,RENT,"$29,067.99",Healthcare,2022-02-23
+CUST-000979,William,Miller,36,4.7,RENT,"$40,207.24",Public Sector,2022-10-22
+CUST-000980,David,Brown,64,0.9,RENT,"$45,049.51",Manufacturing,2022-02-11
+CUST-000981,James,Gonzalez,69,5.6,MORTGAGE,"$20,731.55",Manufacturing,2022-10-12
+CUST-000982,Susan,Taylor,31,1,MORTGAGE,"$31,005.79",Healthcare,2022-05-18
+CUST-000983,Robert,Johnson,55,5.9,RENT,"$82,729.99",Manufacturing,2022-07-06
+CUST-000984,Susan,Jones,70,1.3,MORTGAGE,"$71,690.01",Education,2022-07-23
+CUST-000985,Patricia,Lopez,53,0.6,OWN,"$78,318.05",Manufacturing,2022-02-11
+CUST-000986,James,Davis,57,0.9,RENT,"$36,514.14",Manufacturing,2022-12-16
+CUST-000987,Charles,Garcia,34,0,MORTGAGE,"$38,837.92",Manufacturing,2022-10-15
+CUST-000988,Linda,Davis,47,6.3,MORTGAGE,"$20,049.66",Education,2022-01-26
+CUST-000989,Joseph,Moore,26,6.6,RENT,"$78,117.34",Public Sector,2022-02-25
+CUST-000990,Joseph,Williams,50,3.6,RENT,"$84,823.35",Manufacturing,2022-09-10
+CUST-000991,William,Lopez,69,0.9,MORTGAGE,"$84,285.11",Retail,2022-05-02
+CUST-000992,William,Williams,42,0.4,OWN,"$109,321.20",Education,2022-04-16
+CUST-000993,Elizabeth,Garcia,31,0.1,OWN,"$60,539.68",Healthcare,2022-05-10
+CUST-000994,Karen,Johnson,28,0.9,MORTGAGE,"$106,770.92",Technology,2022-12-03
+CUST-000995,William,Lopez,70,11.1,MORTGAGE,"$44,345.33",Healthcare,2022-06-07
+CUST-000996,John,Johnson,52,1.4,RENT,"$20,261.84",Technology,2022-08-19
+CUST-000997,Karen,Garcia,58,2.2,MORTGAGE,"$75,384.91",Services,2022-11-04
+CUST-000998,David,Taylor,31,0.6,MORTGAGE,"$19,891.65",Healthcare,2022-04-01
+CUST-000999,Jennifer,Williams,47,1.3,RENT,"$53,375.17",Retail,2022-01-22
+CUST-001000,Mary,Johnson,58,3.7,MORTGAGE,"$79,036.25",Technology,2022-10-17
